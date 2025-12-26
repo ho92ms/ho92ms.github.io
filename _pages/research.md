@@ -1,6 +1,7 @@
 ---
-title: "Research Interests"
+title: "Research"
 permalink: /research/
+layout: single
 ---
 
 My interests are centered around applied machine learning and system-level engineering.
@@ -11,5 +12,4 @@ Key topics include:
 - data-driven modeling,
 - performance and scalability of complex systems.
 
-I am especially interested in approaches that emphasize structure, interpretability,
-and reproducibility over ad-hoc optimization.
+I prefer approaches that emphasize structure, interpretability, and reproducibility over ad-hoc optimization.
