@@ -9,191 +9,102 @@ lang: hu
   <strong>HU Magyar</strong> | <a href="/en/research/">EN English</a>
 </div>
 
-## Kutatási Érdeklődés
+## Kutatasi Erdeklodes
 
-Kutatási érdeklődésem a **védekező biztonsági mérnöki munka**, az **elosztott rendszerek elmélete** és az **alkalmazott gépi tanulás** metszéspontjára összpontosít, olyan módszerekre fókuszálva, amelyek **elméletileg megalapozottak** és **operatívan telepíthetők**.
+Kutatasi erdeklodesem a biztonsagi mernoki munka, az elosztott rendszerek elmelet e es az alkalmazott gepi tanulas metsespontjara osszpontosit.
 
----
+## Fo Kutatasi Teruletek
 
-## Fő Kutatási Területek
+### 1. Biztonsagi Mernoki Munka es Threat Intelligence
 
-### 1. Biztonsági Mérnöki Munka és Threat Intelligence
+#### Viselkedeselemzes-alapu Fenyegetesdetektalas
+- Anomaliadetektalo rendszerek
+- Honeypot architekturak
+- Esemenykorrelacio
 
-#### Viselkedéselemzés-alapú Fenyegetésdetektálás
-- **Anomáliadetektáló rendszerek** — statisztikai modellek baseline viselkedéstől való eltérések azonosítására
-- **Honeypot architektúrák** — megtévesztési technikák korai stádiumú támadások azonosítására
-- **Eseménykorreláció** — Windows Event Log-ok időbeli elemzése haladó perzisztens fenyegetésekhez (APT)
+Kutatasi Kerdesek:
+- Hogyan minimalizalhatjuk a hamis pozitiv aranyt?
+- Melyek az optimalis elhelyezesi strategiak honeypot eroforr�sokhoz?
+- Felulmulhatjak-e a gepi tanulasi modellek a szabalyalapu SIEM rendszereket?
 
-**Kutatási Kérdések:**
-- Hogyan minimalizálhatjuk a **hamis pozitív arányt** magas **detektálási lefedettség** fenntartása mellett?
-- Melyek az **optimális elhelyezési stratégiák** honeypot erőforrásokhoz vállalati hálózatokban?
-- Felülmúlhatják-e a **gépi tanulási modellek** a szabályalapú SIEM rendszereket zero-day detektálásban?
+#### Automatizalt Megfelelos-ellenorzes es Hardening
+- Biztonsagi szabalyzatok formalis verifikacioja
+- Konfiguracio-elteres detektalas
+- Hardening benchmark-ok
 
-#### Automatizált Megfelelőség-ellenőrzés és Hardening
-- **Biztonsági szabályzatok formális verifikációja** — model checking GPO helyesség bizonyítására
-- **Konfiguráció-eltérés detektálás** — folyamatos monitoring jogosulatlan változásokhoz
-- **Hardening benchmark-ok** — STIG, CIS és gyártói baseline-ok összehasonlító elemzése
+### 2. Elosztott Rendszerek es Halozati Protokollok
 
-**Kutatási Kérdések:**
-- Hogyan **formálisan verifikálhatjuk**, hogy egy GPO konfiguráció megfelel a STIG követelményeknek?
-- Mi a hardening **mérhető hatása** a támadási felület csökkentésére?
-- **Automatizálhatjuk** a compliance keretrendszerek és GPO beállítások közötti leképezést?
+#### Hibaturo Architekturak
+- Konszenzus protokollok (Paxos, Raft)
+- CAP tetel kompromisszumok
+- Hiba-injektalas teszteles
 
----
+#### WebSocket-alapu Tunneling
+- NAT atjarasi technikak
+- Protokoll multiplexeles
+- Kapcsolatkezeles
 
-### 2. Elosztott Rendszerek és Hálózati Protokollok
+#### Ipari IoT es OPC UA
+- Biztonsagi bovitesek
+- Valos ideju korlatozasok
+- Interoperabilitas
 
-#### Hibatűrő Architektúrák
-- **Konszenzus protokollok** — Paxos, Raft és bizánci hibatűrés
-- **CAP tétel kompromisszumok** — konzisztencia vs. elérhetőség elosztott adatbázisokban
-- **Hiba-injektálás tesztelés** — chaos engineering reziliencia validációhoz
+### 3. Gepi Tanulas Biztonsagi Alkalmazasokhoz
 
-**Kutatási Kérdések:**
-- Hogyan tervezhetünk **alacsony késleltetésű konszenzust** ipari vezérlőrendszerekhez?
-- Melyek a **minimális feltételezések** bizánci hibatűréshez IoT hálózatokban?
-- **Kvantifikálhatjuk** a konzisztencia és partíció-tűrés közötti kompromisszumot?
+#### Adversarial Gepi Tanulas
+- Robusztuss�g adversarial peldakkal szemben
+- Modell mergezesi tamadasok
+- Certifikalt vedelem
 
-#### WebSocket-alapú Tunneling
-- **NAT átjárási technikák** — reverse tunnel-ek, STUN/TURN protokollok
-- **Protokoll multiplexelés** — kétirányú kommunikáció egyetlen kapcsolaton keresztül
-- **Kapcsolatkezelés** — lekapcsolódások, újrapróbálkozások és állapot-egyeztetés kezelése
+#### Anomaliadetektalas Mely Tanulassal
+- Autoencode-ok outlier detektalashoz
+- Rekurrens halozatok szekvencia-anomaliakhoz
+- One-class SVM-ek
 
-**Kutatási Kérdések:**
-- Mi a WebSocket tunneling **késleltetési többlete** közvetlen TCP-hez képest?
-- Hogyan **optimalizálhatjuk a buffer méreteket** nagy áteresztőképességű ipari protokollokhoz (OPC UA)?
-- **Bizonyíthatjuk** a relay szerver helyességét konkurens kérések esetén?
+#### Magyarazhato AI Biztonsaghoz
+- Modell interpretalhatos ag
+- Feature attribucio (SHAP, LIME)
+- Human-in-the-loop rendszerek
 
-#### Ipari IoT és OPC UA
-- **Biztonsági bővítések** — autentikáció, titkosítás, tanúsítvány-kezelés
-- **Valós idejű korlátozások** — determinisztikus kommunikáció korlátozott késleltetéssel
-- **Interoperabilitás** — legacy protokollok áthidalása modern szabványokkal
+### 4. Nagy Nyelvi Modellek es Alkalmazott NLP
 
-**Kutatási Kérdések:**
-- Hogyan **védjük az OPC UA-t** man-in-the-middle támadások ellen megbízhatatlan hálózatokban?
-- Melyek az OPC UA **teljesítményjellemzői** WebSocket vs. TCP esetén?
-- **Formálisan modellezhetjük** az OPC UA protokoll stacket verifikációhoz?
+#### Finomhangolas Domain-specifikus Feladatokhoz
+- Parameter-hatekony modszerek (LoRA, prefix tuning)
+- Domain adaptacio
+- Ertekelesi metrikak
 
----
+#### Prompt Engineering es Optimalizalas
+- Few-shot tanulas
+- Chain-of-thought prompting
+- Automatizalt prompt kereses
 
-### 3. Gépi Tanulás Biztonsági Alkalmazásokhoz
+#### LLM-alapu Biztonsagi Eszkozok
+- Automatizalt threat intelligence
+- Log elemzes
+- Malware kod generalas detektalasa
 
-#### Adversarial Gépi Tanulás
-- **Robusztusság adversarial példákkal szemben** — perturbációk, amelyek becsapják az osztályozókat
-- **Modell mérgezési támadások** — betanítási adatok korruptálása a teljesítmény romlásához
-- **Certifikált védelem** — bizonyítható garanciák korlátozott perturbációkkal szemben
+## Modszertani Alapelvek
 
-**Kutatási Kérdések:**
-- Hogyan **certifikálhatjuk**, hogy egy malware osztályozó robusztus adversarial példákkal szemben?
-- Mi a **kompromisszum** az adversarial robusztusság és a benign pontosság között?
-- **Detektálhatjuk** a mérgezési támadásokat betanítás közben?
+1. Elmeleti Szigor - formalis modellezes, bizonyithato tulajdonsagok
+2. Empirikus Validacio - reprodukalhato kiserletek, statisztikai teszteles
+3. Operativ Megvalosithatosag - valos korlatozasok, fokozatos telepites
 
-#### Anomáliadetektálás Mély Tanulással
-- **Autoencode-ok outlier detektáláshoz** — felügyelet nélküli tanulás normál viselkedésről
-- **Rekurrens hálózatok szekvencia-anomáliákhoz** — időbeli minták event log-okban
-- **One-class SVM-ek** — csak benign mintákon betanított osztályozók
+## Jelenlegi Fokusz
 
-**Kutatási Kérdések:**
-- Hogyan **hangolhatjuk** az autoencoder rekonstrukciós küszöbét a hamis pozitívok minimalizálásához?
-- **Felülmúlhatják** az LSTM-ek a statisztikai baseline-okat ransomware viselkedés detektálásában?
-- Mi a **címkehatékonyság** a félfelügyelt anomáliadetektálásban?
+### 1. Automatizalt Biztonsagi Szabalyzat Verifikacio
+- Cel: Bizonyitani, hogy egy GPO konfiguracio megfelel a STIG kovetelmenyeknek
+- Megkozelites: GPO modellezes veges allapotu gepkent, model checking (SPIN, TLA+)
 
-#### Magyarázható AI Biztonsághoz
-- **Modell interpretálhatóság** — megértés, miért jelölt meg egy modellt egy eseményt rosszindulatúként
-- **Feature attribúció** — SHAP, LIME és gradiens-alapú magyarázatok
-- **Human-in-the-loop rendszerek** — elemzői visszajelzés integrálása modellekbe
+### 2. Elosztott Honeypot Halozatok
+- Cel: Koordinalt honeypot-ok telepitese vallalati kornyezetekben
+- Megkozelites: Kozpontositott log aggregacio, korrelaci os elemzes
 
-**Kutatási Kérdések:**
-- **Megbízhatunk** a modell magyarázatokban nagy tétű biztonsági döntéseknél?
-- Hogyan **kvantifikálhatjuk** különböző modellarchitektúrák interpretálhatóságát?
-- Mi a **hatása** az emberi visszajelzésnek a modell pontosságára idővel?
+### 3. LLM-tamogatott Threat Hunting
+- Cel: LLM-ek hasznalata event log-ok termeszetes nyelv� lekerdez esehez
+- Megkozelites: Finomhangolas annotalt biztonsagi adathalmazokon
 
----
+## Publikaciok es Nyilt Forraskod
 
-### 4. Nagy Nyelvi Modellek (LLM-ek) és Alkalmazott NLP
+Kivalasztott munkak es kiserletek elerhetoek a GitHub-on.
 
-#### Finomhangolás Domain-specifikus Feladatokhoz
-- **Paraméter-hatékony módszerek** — LoRA, prefix tuning, adapter rétegek
-- **Domain adaptáció** — transfer learning általános corpusokról specializáltakra
-- **Értékelési metrikák** — perplexitás, BLEU, emberi értékelés
-
-**Kutatási Kérdések:**
-- Hány **domain-specifikus példa** szükséges hatékony finomhangoláshoz?
-- Mi a **kompromisszum** a paraméterhatékonyság és a feladat teljesítmény között?
-- **Kvantifikálhatjuk** az előbetanítási adat minőségének hatását downstream feladatokra?
-
-#### Prompt Engineering és Optimalizálás
-- **Few-shot tanulás** — hatékony prompt-ok tervezése minimális példákkal
-- **Chain-of-thought prompting** — érvelési lépések kinyerése LLM-ekből
-- **Automatizált prompt keresés** — gradiens-alapú optimalizálás diszkrét prompt-okhoz
-
-**Kutatási Kérdések:**
-- Melyek az **elméleti határai** a few-shot tanulásnak LLM-ekkel?
-- **Automatizálhatjuk** az optimális prompt-ok felfedezését?
-- Hogyan **biztosíthatjuk**, hogy az LLM-ek tényszerűen helyes kimeneteket produkálnak?
-
-#### LLM-alapú Biztonsági Eszközök
-- **Automatizált threat intelligence** — kompromittálás indikátorok (IOC-k) kinyerése jelentésekből
-- **Log elemzés** — természetes nyelvi lekérdezések strukturált eseményadatokon
-- **Malware kód generálás detektálása** — AI-generált exploitok azonosítása
-
-**Kutatási Kérdések:**
-- **Pontosan** kinyerhetik az LLM-ek az IOC-kat strukturálatlan threat jelentésekből?
-- Mi a **hamis pozitív arány** LLM-alapú log elemzésnél?
-- Hogyan **detektálhatjuk**, amikor LLM-eket rosszindulatú kód generálásra használnak?
-
----
-
-## Módszertani Alapelvek
-
-Olyan megközelítéseket hangsúlyozok, amelyek prioritást adnak:
-
-### 1. Elméleti Szigor
-- **Formális modellezés** — matematikai keretrendszerek használata (automaták, Petri hálók, temporális logika)
-- **Bizonyítható tulajdonságok** — helyesség, élőség, biztonság garanciák
-- **Komplexitás elemzés** — idő/tér korlátok, skálázhatósági határok
-
-### 2. Empirikus Validáció
-- **Reprodukálható kísérletek** — verziókezelt kód, dokumentált eljárások, nyilvános adathalmazok
-- **Statisztikai tesztelés** — hipotézis tesztelés, konfidencia intervallumok, power analízis
-- **Ablációs tanulmányok** — egyedi komponensek hatásának izolálása
-
-### 3. Operatív Megvalósíthatóság
-- **Valós korlátozások** — telepítési költségek, visszafelé kompatibilitás, emberi tényezők
-- **Fokozatos telepítés** — A/B tesztelés, canary release-ek, rollback stratégiák
-- **Költség-haszon elemzés** — biztonság és használhatóság közötti kompromisszum kvantifikálása
-
----
-
-## Jelenlegi Fókusz
-
-Jelenlegi munkám a következőket vizsgálja:
-
-### 1. Automatizált Biztonsági Szabályzat Verifikáció
-- **Cél:** Bizonyítani, hogy egy GPO konfiguráció megfelel a STIG követelményeknek
-- **Megközelítés:** GPO modellezése véges állapotú gépként, model checking használata (SPIN, TLA+)
-- **Hatás:** Manuális audit teher eliminálása, compliance biztosítása konstrukcióból
-
-### 2. Elosztott Honeypot Hálózatok
-- **Cél:** Koordinált honeypot-ok telepítése vállalati környezetekben
-- **Megközelítés:** Központosított log aggregáció, korrelációs elemzés, automatizált válasz
-- **Hatás:** Oldalirányú mozgás korai detektálása, csökkentett támadói tartózkodási idő
-
-### 3. LLM-támogatott Threat Hunting
-- **Cél:** LLM-ek használata event log-ok természetes nyelvű lekérdezéséhez
-- **Megközelítés:** Finomhangolás annotált biztonsági adathalmazokon, SIEM integráció
-- **Hatás:** Alacsonyabb belépési küszöb threat hunter-eknek, gyorsabb hipotézis tesztelés
-
----
-
-## Publikációk és Nyílt Forráskód
-
-Kiválasztott munkák és kísérletek elérhetők a [GitHub](https://github.com/ho92ms)-on.
-
-Együttműködéshez vagy beszélgetésekhez lépj kapcsolatba a [neduabi@pm.me](mailto:neduabi@pm.me) címen.
-
----
-
-> *"Biztonság formális módszerekkel. Reziliencia elosztott tervezéssel. Intelligencia empirikus tudománnyal."*
-
-
-
+Egyuttmukodeshez vagy beszelgetesekhez lepj kapcsolatba a neduabi@pm.me cimen.

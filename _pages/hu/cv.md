@@ -9,200 +9,100 @@ lang: hu
   <strong>HU Magyar</strong> | <a href="/en/cv/">EN English</a>
 </div>
 
-## Németh Dávid
+## Nemeth David
 
-**Biztonsági Mérnök | Rendszerarchitekt | Alkalmazott Gépi Tanulás Kutató**
+Biztonsagi Mernok | Rendszerarchitekt | Alkalmazott Gepi Tanulas Kutato
 
-📧 [neduabi@pm.me](mailto:neduabi@pm.me) | 🔗 [github.com/ho92ms](https://github.com/ho92ms)
+Email: neduabi@pm.me  
+GitHub: github.com/ho92ms
 
----
+## Vegzettseg
 
-## Tanulmányok
-
-**Gépitanulás BSc** (félévben)  
-*Fókusz:* Mélytanulás, statisztikai következtetés, optimalizációs elmélet, neurális architektúrák
-
-**Szoftvermérnök BSc** (lezárva)  
-*Fókusz:* Elosztott rendszerek, formális verifikáció, algoritmus tervezés, hálózati protokollok
-
----
+- B.Sc. Gepi Tanulas (folyamatban)
+- B.Sc. Szoftverfejlesztes (elvegezve)
 
 ## Szakmai Tapasztalat
 
-### Biztonsági Mérnök és Rendszerarchitekt
-**VargaFlex IT Infrastruktúra** | *Vállalati Biztonság és Megfelelőség*
+### Biztonsagi Mernok es Rendszerarchitekt
+VargaFlex IT Infrastruktura
 
-- **Fenyegetés Észlelés és Reagálás**
-  - Kialakított és telepített **honeypot rendszerek** ransomware észlelésére és korai figyelmeztetésre
-  - Megvalósított **viselkedésalapú megfigyelést** fájlrendszeri anomáliákhoz (PowerShell alapú EDR)
-  - Egyedi **SIEM szabályokat** készített a Wazuh platformhoz, célzottan a Windows eseménynaplóihoz (4663-as, 1102-es, 4625-ös esemény azonosítók)
-  - Kidolgozott **automatikus fenyegetésválasz** szkripteket RDP brute-force mérséklésére
+- Fenyegetesdetektalas es Valaszadas
+- Windows Hardening es Megfelelos-ellenorzes
+- Halozati Biztonsagi Architektura
+- Vallalati Telepites es Automatizalas
 
-- **Windows Zárhardverezés és Megfelelőség**
-  - Alkalmazta a **STIG és CIS irányelveket** Csoportházirend-objektumokon (GPO) keresztül
-  - Telepítette a **Microsoft Biztonsági Alapbeállításait** (Windows 10/11, Windows Server 2016/2019)
-  - Automatizálta a zárhardverezési munkafolyamatokat **HardeningKitty** és egyedi PowerShell DSC használatával
-  - Beállította a **Windows Defender Támadásfelület Csökkentése (ASR)** szabályait nulladik napi védelemhez
+Kulcs Eredmeny: 100+ vallalati vegpont tamadasi feluletenek 40%-os csokkentese.
 
-- **Hálózatbiztonsági Architektúra**
-  - Tervezett **visszafelé alagút architektúrákat** WebSocketeken keresztül biztonságos ipari protokoll-hozzáféréshez (OPC UA)
-  - Megvalósított **helyhez kötött VPN-t** (IPSec, SSL VPN) többhelyszíni vállalati kapcsolatokhoz
-  - Beállította a **DNS-over-HTTPS (DoH)** titkosított DNS feloldáshoz
-  - Készített **SSH alagút megoldásokat** biztonságos távoli hozzáféréshez
+### Szoftverfejleszto es Rendszerfejleszto
 
-- **Vállalati Telepítés és Automatizálás**
-  - Telepítette a **PXE indító infrastruktúrát** (Windows Telepítési Szolgáltatások + Microsoft Telepítési Keretrendszer)
-  - Automatizálta az **OS képalkotási** munkafolyamatokat egyedi, felesleges telepítési konfigurációkkal
-  - Kifejlesztett **Active Directory telepítési szkripteket** tartományvezérlő-kibővítéshez
-  - Létrehozott **GPO kezelés automatizálás** a SYSVOL szinkronizálás és házirend érvényesítése érdekében
+- WebSocket-alapu Tunnel Architektura (C# / .NET 8.0)
+- PowerShell Automatizalasi Keretrendszer
+- Halozati Protokoll Implementacio
 
----
+Kulcs Eredmeny: Biztons�gos tavoli monitoring 30%-os kesleletes csokkentes sel.
 
-### Szoftvermérnök és Rendszerfejlesztő
-**Elosztott Rendszerek és Ipari Protokollok**
+### Gepi Tanulas Mernok es Kutato
 
-- **WebSocket-alapú Alagút Architektúra (C# / .NET 8.0)**
-  - Tervezett **átjáró szerver mintát** bidirekcionális kommunikációhoz NAT határokon keresztül
-  - Megvalósított **OPC UA hamis szerver** ipari automatizálási teszteléshez
-  - Készített **többhelyszíni alagút kezelést** párhuzamos kapcsolatkezeléssel (`ConcurrentDictionary`)
-  - Alkalmazott **aszimmetrikus I/O mintákat** nagy áteresztőképességű adátviteli feladatokhoz
+- Mely Tanulasi Keretrendszerek
+- Nagy Nyelvi Modellek
+- Adatelemzes es Statisztikai Modellezes
 
-- **PowerShell Automatizálási Keretrendszer**
-  - Kifejlesztett **moduláris szkriptkönyvtárat** AD DS, GPO és biztonsági műveletekhez
-  - Létrehozott **eseményvezérelt megfigyelési** rendszereket valós idejű figyelmeztetéssel
-  - Készített **biztonsági mentés/visszaállítás automatizálást** verziókezeléssel és integritásellenőrzésekkel
-  - Megvalósított **felhasználó létrehozási munkafolyamatokat** szerepalapú hozzáférés-vezérléssel (RBAC)
+## Technikai Keszs egek
 
-- **Hálózati Protokoll Megvalósítás**
-  - Beállította a **PXE indítást** (DHCP 66/67-es opciók, TFTP) hálózaton alapuló OS telepítéshez
-  - Tervezett **alhálózati szegmenseket** izolált biztonsági zónákhoz
-  - Megvalósított **tűzfal-szabály automatizálást** dinamikus szolgáltatás-kibővítéshez
+### Programozasi Nyelvek
+- Elsodleges: C#, PowerShell, Python
+- Masodlagos: C++, Java, JavaScript/TypeScript, Bash
 
----
+### Biztonsag es Infrastruktura
+- Hardening: Windows Security Baseline-ok, STIG, CIS Benchmark-ok
+- SIEM/EDR: Wazuh, Windows Event Log elemzes
+- Halozati Biztonsag: VPN, DNS-over-HTTPS, tuzfal automatizalas
 
-### Gépi Tanulás Mérnök és Kutató
-**Alkalmazott Neurális Hálózatok és Adat-vezérelt Rendszerek**
+### Rendszerek es Halozatok
+- Windows Server: Active Directory, Group Policy, WDS, MDT
+- Felho: Microsoft Azure
+- Protokollok: OPC UA, WebSocket, TCP tunneling, PXE boot
 
-- **Mély Tanulási Keretrendszerek**
-  - Tervezett és tanított **neurális hálózati architektúrákat** (PyTorch, TensorFlow/Keras)
-  - Végzett **hiperparaméter-optimalizálást** Bayes-i módszerekkel és rács kereséssel
-  - Telepített **követési csővezetékket** REST API-kon keresztül konténerizált környezetekben (Docker)
+### Szoftverfejlesztes
+- Backend: ASP.NET Core, WebSocket szerverek, RESTful API-k
+- Adatbazisok: PostgreSQL, MySQL, MongoDB
+- DevOps: Git, Docker, Kubernetes, CI/CD
 
-- **Nagy Nyelvi Modellek (LLM)**
-  - Finomhangolt **domain-specifikus modellek** LoRA és prefix tuning használatával
-  - Kifejlesztett **prompt mérnöki stratégiák** feladat-specifikus teljesítményhez
-  - Készített **LLM-alapú ügynököket** hibakezeléssel és visszaesési mechanizmusokkal
+### Gepi Tanulas
+- Keretrendszerek: PyTorch, TensorFlow/Keras, scikit-learn
+- LLM-ek: OpenAI API, Hugging Face Transformers
+- Eszkozok: Jupyter, Pandas, NumPy, Matplotlib
 
-- **Adat Elemzés és Statisztikai Modellezés**
-  - Végzett **exploratív adat elemzést (EDA)** statisztikai összefoglalásokkal és vizualizációkkal
-  - Alkalmazott **jellemző mérnöki technikák** domain-specifikus reprezentációkhoz
-  - Lebonyolított **A/B tesztelést** és statisztikai validálást reprodukálható kutatáshoz
+## Kulcs Projektek
 
----
+### 1. Reverse Tunnel Architektura (C# / .NET 8.0)
+Biztons�gos ipari protokoll hozzaferes WebSocketen keresztul
 
-## Technikai Készségek
+### 2. Vallalati Biztonsagi Hardening Keretrendszer
+Automatizalt Windows megfelelos-ellenorzes es fenyegetesdetektalas
 
-### Programozási Nyelvek
-- **Elsődleges:** C#, PowerShell, Python
-- **Másodlagos:** C++, Java, JavaScript/TypeScript, Bash
+### 3. PXE Boot Infrastruktura
+Automatizalt OS telepites vallalati kornyezetekhez
 
-### Biztonság és Infrastruktúra
-- **Zárhardverezés:** Windows Biztonsági Alapbeállítások, STIG, CIS Irányelvek, GPO tervezés
-- **SIEM/EDR:** Wazuh, Windows Eseménynapló elemzés, fenyegetésvadászat
-- **Hálózatbiztonság:** VPN (IPSec, SSL, SSH), DNS-over-HTTPS, tűzfalszabály automatizálás
-- **Honeypot és Csapda:** Fájl megfigyelés, viselkedés észlelés, riasztó rendszerek
+## Kutatasi Erdeklodes
 
-### Rendszerek és Hálózatok
-- **Windows Server:** Active Directory, Csoportházirend, WDS, MDT, DHCP, DNS
-- **Felhő:** Microsoft Azure (számítás, hálózatépítés, biztonság)
-- **Protokollok:** OPC UA, WebSocket, TCP alagút, PXE indítás (TFTP)
+- Rendszerbiztons ag es Hardening
+- Elosztott Rendszerek
+- Gepi Tanulas Biztonsaga
+- Neuralis Architektura Tervezes
 
-### Szoftvermérnökség
-- **Backend:** ASP.NET Core, WebSocket szerverek, RESTful API-k
-- **Adatbázisok:** PostgreSQL, MySQL, MongoDB
-- **DevOps:** Git, Docker, Kubernetes, CI/CD (Azure DevOps, GitHub Actions)
+## Publikaciok es Nyilt Forraskod
 
-### Gépi Tanulás
-- **Keretrendszerek:** PyTorch, TensorFlow/Keras, scikit-learn
-- **LLM:** OpenAI API, Hugging Face Transformers, finomhangolás (LoRA, prefix tuning)
-- **Eszközök:** Jupyter, Pandas, NumPy, Matplotlib
-
----
-
-## Kulcsprojektek
-
-### 1. Visszafelé Alagút Architektúra (C# / .NET 8.0)
-*Biztonságos ipari protokoll hozzáférés WebSocketen keresztül*
-
-- **Probléma:** Ipari OPC UA szerverek NAT mögött külső hozzáférést igényelnek anélkül, hogy belső hálózatokat ki kellene tenni
-- **Megoldás:** Készített **átjáró szerver** WebSocket-alapú bidirekcionális alagút kialakításával
-- **Összetevők:** Hamis OPC szerver, alagút kliens, átjáró szerver párhuzamos kapcsolatkezeléssel
-- **Hatás:** Biztosította a biztonságos távoli megfigyelést VPN terhei nélkül
-
-### 2. Vállalati Biztonsági Zárhardverezési Keretrendszer
-*Automatizált Windows megfelelőség és fenyegetés észlelés*
-
-- **Terjedelem:** 100+ vállalati munkaállomás és szerver
-- **Módszerek:** GPO-alapú STIG végrehajtás, ASR szabályok, honeypot telepítés
-- **Eszközök:** HardeningKitty, Wazuh SIEM, egyedi PowerShell szkriptek
-- **Eredmények:** Csökkentett támadási felület, valós idejű ransomware észlelés, megfelelőségi audit előkészítettség
-
-### 3. PXE Indító Infrastruktúra
-*Automatizált OS telepítés vállalati környezetekben*
-
-- **Technológiai háttér:** Windows Telepítési Szolgáltatások (WDS), Microsoft Telepítési Keretrendszer (MDT)
-- **Jellemzők:** Felesleges telepítések, illesztőprogram injekció, telepítés utáni konfiguráció
-- **Automatizálás:** PowerShell szkriptek telepítési testreszabáshoz és DHCP opciókezeléshez
-- **Eredmény:** Nulla érintésű telepítés Windows 10/11 számára hálózati indítással
-
----
-
-## Kutatási Érdeklődés
-
-- **Rendszerbiztonság és Zárhardverezés:** A biztonsági politikák formális verifikálása, automatizált megfelelőség
-- **Elosztott Rendszerek:** Hibatűrő architektúrák, konszenzus protokollok
-- **Gépi Tanulás Biztonság:** Ellenséges robusztusság, modellértelmezhetőség
-- **Neurális Architektúra Tervezés:** Induktív torzítások, általánosítási elmélet
-
----
-
-## Publikációk és Nyílt Forráskód
-
-Kiválasztott munkák és kísérletek elérhetők a [GitHubon](https://github.com/ho92ms).
-
----
-
-## Tanúsítványok és Képzés
-
-- Windows Server Adminisztráció és Biztonság
-- Vállalati Hálózat Tervezés
-- Ipari Protokollok és OPC UA
-- Gépi Tanulás Specializáció (folyamatban)
-
----
+Kivalasztott munkak elerhetoek a GitHub-on.
 
 ## Nyelvek
 
-- **Magyar:** Anyanyelvi
-- **Angol:** Szakmai munkahelyi szint (C1)
-
----
-
-## Elvek
-
-> *"Biztonság mérnöki szigorral. Automatizálás rendszerszerű tervezéssel. Intelligencia empirikus validálással."*
-
----
+- Magyar: Anyanyelv
+- Angol: Szakmai munkakapcsolati szint (C1)
 
 ## Kapcsolat
 
-📧 **Email:** [neduabi@pm.me](mailto:neduabi@pm.me)  
-🔗 **GitHub:** [github.com/ho92ms](https://github.com/ho92ms)
+Email: neduabi@pm.me  
+GitHub: github.com/ho92ms
 
----
-
-*Utolsó frissítés: 2025. december*
-
-
-
-
+Utolso frissites: 2025. december
