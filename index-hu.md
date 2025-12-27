@@ -1,45 +1,20 @@
 ---
 layout: single
-title: "Nemeth David"
+title: "Németh Dávid"
 permalink: /hu/
 author_profile: true
 lang: hu
 ---
 
-<div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <strong>HU Magyar</strong> | <a href="/">EN English</a>
+<div class="language-switcher" style="text-align:right; margin-bottom: 1em;">
+  <strong>HU</strong> | <a href="/">EN</a>
 </div>
 
-## Rolam
+Kutatómérnöki szemléletû szoftvermérnök vagyok; fókuszom a **vállalati rendszerek** és az **alkalmazott gépi tanulás** metszete.
 
-Szoftverfejleszto es gepi tanulas kutato vagyok, vallalati lepteku rendszerek es alkalmazott szamitasi modszerek tapasztalataval.
+A célom olyan megoldások építése, amelyek:
+- **megbízhatóak** (üzemeltethetõk, biztonságosak, megfigyelhetõk),
+- **mérhetõk** (definiált metrikák, tesztelhetõ állítások),
+- és **hosszú távon karbantarthatók**.
 
-Munkam a kovetkezo teruletek metsespontjara osszpontosit:
-- szigoru rendszertervezes - megbizhato, karbantarthato architekturak epitese
-- alkalmazott gepi tanulas - adatvezerelt modellek vilagos elmeleti alapokkal
-- matematikai struktura - olyan megoldasok elonyben reszesitese, amelyek konceptualisan egyszeruek es empirikusan ellenorizhetoek
-
-Olyan megkozeliteseket ertekelek, amelyek egyensulyokat teremtenek az elmeleti elegancia es a gyakorlati korlatozasok kozott.
-
-## Kutatasi Erdeklodes
-
-- Reprezentaciotanulas es neuralis halozat architekturak
-- Nagy nyelvi modellek es alkalmazasaik
-- Interpretalhato es strukturalisan atlathatlo modellek
-- Rendszerszintu teljesitmeny es skalazhatosag
-
-## Szakmai Hatter
-
-- Vallalati IT rendszerek - Windows/Linux infrastruktura, felho platformok (Azure), DevOps workflow-k
-- Szoftverfejlesztes - backend fejlesztes, RESTful API-k, CI/CD automatizalas
-- Gepi tanulas - alkalmazott neuralis halozatok, adatelemzes Python-ban, LLM-alapu kiserletezes
-
-## Vegzettseg
-
-- B.Sc. Gepi Tanulas (folyamatban)
-- B.Sc. Szoftverfejlesztes
-
-## Kapcsolat
-
-Email: neduabi@pm.me  
-GitHub: github.com/ho92ms
+A részletekhez használd a menüt: **About / Research / Experience / CV**.

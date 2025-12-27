@@ -1,59 +1,20 @@
 ---
 layout: single
-title: "Nemeth David"
+title: "Németh Dávid"
 permalink: /
 author_profile: true
 lang: en
 ---
 
-<div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <a href="/hu/">HU Magyar</a> | <strong>EN English</strong>
+<div class="language-switcher" style="text-align:right; margin-bottom: 1em;">
+  <a href="/hu/">HU</a> | <strong>EN</strong>
 </div>
 
-## About Me
+I work as a research-oriented software engineer at the intersection of **enterprise systems** and **applied machine learning**.
 
-I am a **software engineer** and **machine learning researcher** with a background in enterprise-scale systems and applied computational methods.
+My focus is on building systems that are:
+- **reliable** (operable, secure, observable),
+- **measurable** (clear metrics and testable claims),
+- and **maintainable** over time.
 
-My work focuses on the intersection of:
-- **rigorous system design** — building reliable, maintainable architectures,
-- **applied machine learning** — data-driven models with clear theoretical foundations,
-- **mathematical structure** — preferring solutions that are conceptually simple and empirically verifiable.
-
-I value approaches that balance **theoretical elegance** with **practical constraints**, and I am particularly interested in problems where formal methods meet real-world complexity.
-
----
-
-## Research Interests
-
-- Representation learning and neural network architectures
-- Large language models and their applications
-- Interpretable and structurally transparent models
-- System-level performance and scalability
-
----
-
-## Professional Background
-
-- **Enterprise IT systems** — Windows/Linux infrastructure, cloud platforms (Azure), DevOps workflows
-- **Software engineering** — backend development, RESTful APIs, CI/CD automation
-- **Machine learning** — applied neural networks, data analysis in Python, LLM-based experimentation
-
----
-
-## Education
-
-- **B.Sc. in Machine Learning** (ongoing)
-- **B.Sc. in Software Engineering**
-
----
-
-## Contact
-
-Email: [neduabi@pm.me](mailto:neduabi@pm.me)  
-GitHub: [github.com/ho92ms](https://github.com/ho92ms)
-
----
-
-> *"Conceptually simple. Mathematically grounded. Empirically verifiable."*
-
-
+Use the menu to navigate to **About**, **Research**, **Experience**, and **CV**.

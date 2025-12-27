@@ -11,98 +11,111 @@ lang: hu
 
 ## Németh Dávid
 
-Biztonsági Mérnök | Rendszerarchitekt | Alkalmazott Gépi Tanulás Kutató
+**Kutató szemléletű programozó matematikus**  
+Vállalati rendszerek · Biztonság · Alkalmazott gépi tanulás
 
 Email: neduabi@pm.me  
-GitHub: github.com/ho92ms
+GitHub: https://github.com/ho92ms
+
+---
 
 ## Végzettség
 
-- B.Sc. Gépi Tanulás (folyamatban)
-- B.Sc. Szoftverfejlesztés (elvégezve)
+- **B.Sc. Gépi Tanulás** *(folyamatban)*  
+- **B.Sc. Szoftverfejlesztés** *(elvégezve)*
+
+---
 
 ## Szakmai Tapasztalat
 
-### Biztonsági Mérnök és Rendszerarchitekt
-VargaFlex IT Infrastruktúra
+### Biztonság és Rendszerarchitektúra  
+**Vállalati IT környezetek**
 
-- Fenyegetésdetektálás és Válaszadás
-- Windows Hardening és Megfelelőség-ellenőrzés
-- Hálózati Biztonsági Architektúra
-- Vállalati Telepítés és Automatizálás
+- Biztonságos és karbantartható rendszerek tervezése és üzemeltetése  
+- Windows hardening és megfelelőség-ellenőrzés automatizálása  
+- Eseményalapú fenyegetésdetektálás és válaszadás  
+- Hálózati biztonsági architektúrák kialakítása
 
-Kulcs Eredmény: 100+ vállalati végpont támadási felületének 40%-os csökkentése.
+---
 
-### Szoftverfejlesztő és Rendszerfejlesztő
+### Szoftverfejlesztés és Automatizálás
 
-- WebSocket-alapú Tunnel Architektúra (C# / .NET 8.0)
-- PowerShell Automatizálási Keretrendszer
-- Hálózati Protokoll Implementáció
+- Backend fejlesztés és rendszerintegráció (C#, .NET)  
+- PowerShell-alapú automatizálási keretrendszerek  
+- Biztonságos kommunikációs és tunnel megoldások  
+- Telepítési és infrastruktúra-automatizálás
 
-Kulcs Eredmény: Biztonságos távoli monitoring 30%-os késleltetés csökkentéssel.
+---
 
-### Gépi Tanulás Mérnök és Kutató
+### Alkalmazott Gépi Tanulás
 
-- Mély Tanulási Keretrendszerek
-- Nagy Nyelvi Modellek
-- Adatelemzés és Statisztikai Modellezés
+- Neurális hálózatok tervezése és tanítása  
+- Adatelemzés és statisztikai kiértékelés  
+- LLM-alapú kísérletezés és alkalmazás  
+- Reprodukálható mérési és értékelési folyamatok
 
-## Technikai Készségek
+---
 
-### Programozási Nyelvek
-- Elsődleges: C#, PowerShell, Python
-- Másodlagos: C++, Java, JavaScript/TypeScript, Bash
+## Technikai Ismeretek a teljesség igénye nélkül
 
-### Biztonság és Infrastruktúra
-- Hardening: Windows Security Baseline-ok, STIG, CIS Benchmark-ok
-- SIEM/EDR: Wazuh, Windows Event Log elemzés
-- Hálózati Biztonság: VPN, DNS-over-HTTPS, tűzfal automatizálás
+**Nyelvek:** C#, PowerShell, Python; C++, Java, Bash  
+**Rendszerek:** Windows Server, Active Directory, Azure  
+**Biztonság:** hardening, SIEM/EDR, hálózati védelem  
+**ML:** PyTorch, TensorFlow/Keras, scikit-learn  
+**DevOps:** Git, Docker, CI/CD
+*Az eszközválasztást mindig a rendszerkorlátok és célok határozzák meg, nem az aktuális trendek.*
 
-### Rendszerek és Hálózatok
-- Windows Server: Active Directory, Group Policy, WDS, MDT
-- Felhő: Microsoft Azure
-- Protokollok: OPC UA, WebSocket, TCP tunneling, PXE boot
 
-### Szoftverfejlesztés
-- Backend: ASP.NET Core, WebSocket szerverek, RESTful API-k
-- Adatbázisok: PostgreSQL, MySQL, MongoDB
-- DevOps: Git, Docker, Kubernetes, CI/CD
+---
 
-### Gépi Tanulás
-- Keretrendszerek: PyTorch, TensorFlow/Keras, scikit-learn
-- LLM-ek: OpenAI API, Hugging Face Transformers
-- Eszközök: Jupyter, Pandas, NumPy, Matplotlib
+## Kiemelt Projektek
 
-## Kulcs Projektek
+### LLM-alapú rendszermegfigyelés és incidenselemzés
+*Nagy nyelvi modellek alkalmazása üzemeltetési adatokon*
 
-### 1. Reverse Tunnel Architektúra (C# / .NET 8.0)
-Biztonságos ipari protokoll hozzáférés WebSocketen keresztül
+- Kísérleti megoldások **naplóadatok összegzésére és anomáliák értelmezésére**
+- **Human-in-the-loop** megközelítés biztonsági és üzemeltetési incidensekhez
+- Promptstruktúrák vizsgálata **eseménykorrelációhoz és magyarázathoz**
+- Megbízhatóság és kontrollált alkalmazhatóság fókuszban
 
-### 2. Vállalati Biztonsági Hardening Keretrendszer
-Automatizált Windows megfelelőség-ellenőrzés és fenyegetésdetektálás
+---
 
-### 3. PXE Boot Infrastruktúra
-Automatizált OS telepítés vállalati környezetekhez
+### Biztonságos kommunikációs minták korlátozott környezetekben
+*Rendszerszintű alapok AI-alapú megfigyelő rendszerekhez*
+
+- WebSocket-alapú tunnel architektúrák tervezése zárt hálózatokhoz
+- Alkalmazható **ügynök-alapú, AI-támogatott monitorozáshoz**
+- Robusztusság, megfigyelhetőség és kontrollált hozzáférés
+- Elosztott rendszerek alapozása
+
+---
+
+### Automatizált szabályérvényesítés és megfelelőség-elemzés
+*Infrastruktúra-szabályoktól géppel értelmezhető korlátokig*
+
+- Hardening és megfelelőség-ellenőrzés automatizálása vállalati környezetben
+- Szabályrendszerek leképezése **strukturált, gépi reprezentációkra**
+- Kapcsolódás AI-alapú konfiguráció- és megfelelőség-elemzéshez
+- Reprodukálhatóság és auditálhatóság hangsúlya
+- SAT-alapú megközelítések kutatása validációhoz
+
+
+---
 
 ## Kutatási Érdeklődés
 
-- Rendszerbiztonság és Hardening
-- Elosztott Rendszerek
-- Gépi Tanulás Biztonsága
-- Neurális Architektúra Tervezés
+- Biztonságos és megbízható rendszertervezés  
+- Alkalmazott gépi tanulás üzemeltetési környezetben  
+- Interpretálható és strukturált modellek  
+- Elosztott rendszerek robusztussága
 
-## Publikációk és Nyílt Forráskód
-
-Kiválasztott munkák elérhetőek a GitHub-on.
+---
 
 ## Nyelvek
 
-- Magyar: Anyanyelv
-- Angol: Szakmai munkakapcsolati szint (C1)
+- Magyar — anyanyelv  
+- Angol — szakmai munkakapcsolati szint (C1)
 
-## Kapcsolat
-
-Email: neduabi@pm.me  
-GitHub: github.com/ho92ms
+---
 
 Utolsó frissítés: 2025. december

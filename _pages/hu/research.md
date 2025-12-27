@@ -9,102 +9,62 @@ lang: hu
   <strong>HU Magyar</strong> | <a href="/en/research/">EN English</a>
 </div>
 
-## Kutatási Érdeklődés
+## Kutatási Fókusz
 
-Kutatási érdeklődésem a biztonsági mérnöki munka, az elosztott rendszerek elmélete és az alkalmazott gépi tanulás metszéspontjára összpontosít.
+Kutatási érdeklődésem a **vállalati rendszerek**, a **biztonsági üzemeltetés** és az **alkalmazott gépi tanulás** metszéspontjára irányul.
 
-## Fő Kutatási Területek
+A hangsúly az **AI-alapú megoldások rendszerszintű viselkedésén**, azok **megbízhatóságán**, valamint **ellenőrzött bevezethetőségén** van.
 
-### 1. Biztonsági Mérnöki Munka és Threat Intelligence
 
-#### Viselkedéselemzés-alapú Fenyegetésdetektálás
-- Anomáliadetektáló rendszerek
-- Honeypot architektúrák
-- Eseménykorreláció
+---
 
-Kutatási Kérdések:
-- Hogyan minimalizálhatjuk a hamis pozitív arányt?
-- Melyek az optimális elhelyezési stratégiák honeypot erőforrásokhoz?
-- Felülmúlhatják-e a gépi tanulási modellek a szabályalapú SIEM rendszereket?
+## Fő Kutatási Irányok
 
-#### Automatizált Megfelelőség-ellenőrzés és Hardening
-- Biztonsági szabályzatok formális verifikációja
-- Konfiguráció-eltérés detektálás
-- Hardening benchmark-ok
+### 1. Nagy nyelvi modellek üzemeltetési és biztonsági adatokhoz
 
-### 2. Elosztott Rendszerek és Hálózati Protokollok
+- LLM-ek alkalmazása **naplóadatok elemzésére**, **eseménykorrelációra** és **incidensértelmezésre**
+- Hallucinációs kockázatok és megbízhatóság vizsgálata operatív környezetben
+- Human-in-the-loop munkafolyamatok biztonsági és rendszerüzemeltetéshez
 
-#### Hibatűrő Architektúrák
-- Konszenzus protokollok (Paxos, Raft)
-- CAP tétel kompromisszumok
-- Hiba-injektálás tesztelés
 
-#### WebSocket-alapú Tunneling
-- NAT átjárási technikák
-- Protokoll multiplexelés
-- Kapcsolatkezelés
+---
 
-#### Ipari IoT és OPC UA
-- Biztonsági bővítések
-- Valós idejű korlátozások
-- Interoperabilitás
+### 2. AI-támogatott infrastruktúra- és szabályelemzés
 
-### 3. Gépi Tanulás Biztonsági Alkalmazásokhoz
+- Infrastruktúra- és biztonsági szabályok **géppel értelmezhető reprezentációi**
+- Konfiguráció-eltérések és megfelelőségi problémák automatizált detektálása
+- Szabályalapú és adatvezérelt megközelítések kombinálása
+- Auditálhatóság és reprodukálhatóság biztosítása
 
-#### Adversarial Gépi Tanulás
-- Robusztusság adversarial példákkal szemben
-- Modell mérgezési támadások
-- Certifikált védelem
+---
 
-#### Anomáliadetektálás Mély Tanulással
-- Autoencode-ok outlier detektáláshoz
-- Rekurrens hálózatok szekvencia-anomáliákhoz
-- One-class SVM-ek
+### 3. Agentikus AI rendszerek alapjai
 
-#### Magyarázható AI Biztonsághoz
-- Modell interpretálhatóság
-- Feature attribúció (SHAP, LIME)
-- Human-in-the-loop rendszerek
+- Biztonságos kommunikációs minták korlátozott hálózati környezetekben
+- Megfigyelhetőség, visszagörgethetőség részben autonóm rendszerekben (kontrollált autonómia)
+- Erőforrás- és költségtudatos AI telepítés 
+- AI-komponensek fokozatos integrációja meglévő vállalati rendszerekbe
 
-### 4. Nagy Nyelvi Modellek és Alkalmazott NLP
-
-#### Finomhangolás Domain-specifikus Feladatokhoz
-- Paraméter-hatékony módszerek (LoRA, prefix tuning)
-- Domain adaptáció
-- Értékelési metrikák
-
-#### Prompt Engineering és Optimalizálás
-- Few-shot tanulás
-- Chain-of-thought prompting
-- Automatizált prompt keresés
-
-#### LLM-alapú Biztonsági Eszközök
-- Automatizált threat intelligence
-- Log elemzés
-- Malware kód generálás detektálása
+---
 
 ## Módszertani Alapelvek
 
-1. Elméleti Szigor - formális modellezés, bizonyítható tulajdonságok
-2. Empirikus Validáció - reprodukálható kísérletek, statisztikai tesztelés
-3. Operatív Megvalósíthatóság - valós korlátozások, fokozatos telepítés
+1. **Operatív realizmus** — valós környezetből származó problémák  
+2. **Empirikus validáció** — mérőszám-alapú kiértékelés  
+3. **Emberi felügyelet** — AI mint döntéstámogatás  
+4. **Reprodukálhatóság** — megismételhető kísérletek
 
-## Jelenlegi Fókusz
+---
 
-### 1. Automatizált Biztonsági Szabályzat Verifikáció
-- Cél: Bizonyítani, hogy egy GPO konfiguráció megfelel a STIG követelményeknek
-- Megközelítés: GPO modellezés véges állapotú gépként, model checking (SPIN, TLA+)
+## Jelenlegi Feltáró Munka
 
-### 2. Elosztott Honeypot Hálózatok
-- Cél: Koordinált honeypot-ok telepítése vállalati környezetekben
-- Megközelítés: Központosított log aggregáció, korrelációs elemzés
+- LLM-alapú belső tudásrendszerek vállalati szoftverekhez  
+- Biztonsági és rendszeresemények automatizált elemzése  
+- Könnyűsúlyú, ügynök-alapú monitorozó rendszerek vizsgálata
 
-### 3. LLM-támogatott Threat Hunting
-- Cél: LLM-ek használata event log-ok természetes nyelvű lekérdezéséhez
-- Megközelítés: Finomhangolás annotált biztonsági adathalmazokon
+---
 
-## Publikációk és Nyílt Forráskód
+## Együttműködés
 
-Kiválasztott munkák és kísérletek elérhetőek a GitHub-on.
-
-Együttműködéshez vagy beszélgetésekhez lépj kapcsolatba a neduabi@pm.me címen.
+Kiválasztott kísérletek és prototípusok elérhetők GitHubon.  
+Kapcsolat: **neduabi@pm.me**

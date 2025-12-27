@@ -1,88 +1,52 @@
 ---
-title: "Szakmai Tapasztalat"
+title: "Tapasztalat"
 permalink: /hu/experience/
 layout: single
 lang: hu
 ---
 
 <div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <strong>HU Magyar</strong> | <a href="/en/experience/">EN English</a>
+  <strong>HU</strong> | <a href="/en/experience/">EN</a>
 </div>
 
 ## Áttekintés
 
-Szakmai hátterem a vállalati biztonsági mérnöki munka, az elosztott rendszerarchitektúra és az alkalmazott gépi tanulás területeit öleli fel.
+Munkám a **rendszerarchitektúra**, a **szoftverfejlesztés**, a **DevOps**, valamint az **alkalmazott AI** metszetében helyezkedik el.
 
-## 1. Biztonsági Mérnöki Munka és Infrastruktúra Hardening
+Fő fókuszom **megbízható, biztonságos és automatizált vállalati rendszerek** kialakítása, valamint AI-alapú komponensek integrálása valós üzemeltetési környezetekbe.
 
-### Windows Biztonsági Hardening
-- STIG és CIS Benchmark alkalmazása
-- Microsoft Security Baseline-ok telepítése
-- Automatizált hardening HardeningKitty és PowerShell DSC-vel
-- Windows Defender ASR szabályok konfigurálása
+---
 
-Kulcs Eredmény: 40%-os csökkentés a támadási felületen 100+ vállalati végponton.
+## Vállalati Rendszerek és Architektúra
 
-### Fenyegetésdetektálás és Incidensválasz
+- Központi identitás- és konfigurációkezelési rendszerek tervezése és üzemeltetése
+- Szabályalapú konfiguráció és policy-vezérelt működés
+- Kliens- és szerveroldali rendszerek egységes működési alapjainak kialakítása
 
-- Honeypot rendszerek építése
-- Viselkedéselemző scriptek (PowerShell-alapú EDR)
-- Wazuh SIEM integráció
-- Automatizált incidensválasz RDP brute-force támadásokra
+---
 
-Kulcs Eredmény: 3 ransomware szimuláció detektálása 15 másodpercen belül.
+## IT Biztonság
 
-### Hálózati Biztonsági Architektúra
+- Végpontvédelem és támadási felület csökkentése
+- Biztonsági szabályrendszerek technikai érvényesítése
+- Konfiguráció-eltérések és megfelelőségi problémák kezelése
+- Biztonságos hozzáférési minták korlátozott hálózati környezetekben
 
-- Site-to-site VPN (IPSec, SSL VPN)
-- SSH tunneling
-- DNS-over-HTTPS telepítés
-- Reverse tunnel architektúra (C# / .NET 8.0)
+---
 
-Kulcs Eredmény: 15+ távoli helyszín biztosítása nulla VPN leállással 12 hónapon keresztül.
+## Automatizálás és DevOps
 
-## 2. Vállalati Infrastruktúra és Automatizálás
+- Automatizált, **zero-touch provisioning** munkafolyamatok
+- Központi szoftverterítés és életciklus-kezelés
+- Infrastrukturális és üzemeltetési folyamatok automatizálása
+- Virtualizált környezetek üzemeltetése és felügyelete
 
-### Active Directory és Group Policy
-- Domain controller telepítés automatizálása
-- GPO kezelési keretrendszer
-- Felhasználó-létrehozó scriptek RBAC-kal
+---
 
-### OS Telepítés és PXE Boot
-- Windows Deployment Services + MDT
-- PXE boot konfigurálás
-- Felügyelet nélküli telepítések
+## Szoftverfejlesztés és Alkalmazott AI
 
-Kulcs Eredmény: Zero-touch telepítés, imaging idő csökkentése 3 óráról 45 percre.
-
-### PowerShell Automatizálás
-- Moduláris library gyakori műveletekhez
-- Eseményvezérelt monitoring rendszerek
-- Backup/restore automatizálás
-
-## 3. Elosztott Rendszerek és Protokollok
-
-### WebSocket-alapú Relay Szerver
-- Konkurens kapcsolatkezelés
-- Aszinkron I/O minták
-- OPC UA mock szerver
-
-Teljesítmény: 100+ konkurens tunnel kapcsolat kezelése 50ms alatti késleltetéssel.
-
-## 4. Gépi Tanulás és Adattudomány
-
-- Mély tanulási keretrendszerek (PyTorch, TensorFlow)
-- LLM-ek finomhangolása
-- Adatelemzés és statisztikai modellezés
-
-## Kulcs Erősségek
-
-1. Biztonsági Mérnöki Munka
-2. Rendszerarchitektúra
-3. Automatizálás és Scriptelés
-4. Operatív Kiválóság
-
-## Kapcsolat
-
-Email: neduabi@pm.me  
-GitHub: github.com/ho92ms
+- Dokumentumfeldolgozó rendszerek fejlesztése fuzzy logikával
+- AI-alapú komponensek integrálása vállalati szoftverekbe
+- Python-alapú AI/LLM kísérletek és prototípusok
+- Belső, domain-specifikus tudásrendszerek fejlesztése
+- Erőforrás-tudatos futtatás és skálázás vizsgálata
