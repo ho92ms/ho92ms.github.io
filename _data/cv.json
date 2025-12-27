@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "N�meth D�vid",
+    "name": "Nemeth David",
     "email": "neduabi@pm.me",
     "phone": "",
     "website": "https://ho92ms.github.io",
@@ -38,7 +38,7 @@
 
   "education": [
     {
-      "institution": "Eszterh�zy K�roly University",
+      "institution": "Eszterhazy Karoly University",
       "area": "Machine Learning",
       "studyType": "M.Sc. (ongoing)",
       "startDate": "2024",
@@ -47,7 +47,7 @@
       "courses": []
     },
     {
-      "institution": "E�tv�s Lor�nd University",
+      "institution": "Eotvos Lorand University",
       "area": "Software Engineering",
       "studyType": "B.Sc.",
       "startDate": "2013",

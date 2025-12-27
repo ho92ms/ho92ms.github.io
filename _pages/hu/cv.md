@@ -63,7 +63,8 @@ GitHub: https://github.com/ho92ms
 **Biztonság:** hardening, SIEM/EDR, hálózati védelem  
 **ML:** PyTorch, TensorFlow/Keras, scikit-learn  
 **DevOps:** Git, Docker, CI/CD
-*Az eszközválasztást mindig a rendszerkorlátok és célok határozzák meg, nem az aktuális trendek.*
+
+**Az eszközválasztást mindig a rendszerkorlátok és célok határozzák meg, nem az aktuális trendek.**
 
 
 ---

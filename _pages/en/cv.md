@@ -63,6 +63,7 @@ Enterprise systems · Security · Applied machine learning
 **Security:** Hardening baselines, SIEM/EDR workflows, network security  
 **ML:** PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face  
 **DevOps:** Git, Docker, CI/CD
+
 **Experience selecting tools based on constraints rather than trends.**
 
 ---

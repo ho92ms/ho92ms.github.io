@@ -18,7 +18,7 @@ I am open to professional inquiries related to:
 
 **Email:** [neduabi@pm.me](mailto:neduabi@pm.me)  
 Please include a clear subject line and a brief description of your inquiry.  
-I typically respond within **2�3 business days**.
+I typically respond within **2-3 business days**.
 
 ## Open Source
 

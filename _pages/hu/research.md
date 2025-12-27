@@ -9,7 +9,7 @@ lang: hu
   <strong>HU Magyar</strong> | <a href="/en/research/">EN English</a>
 </div>
 
-## Kutatási Fókusz
+## Fókusz
 
 Kutatási érdeklődésem a **vállalati rendszerek**, a **biztonsági üzemeltetés** és az **alkalmazott gépi tanulás** metszéspontjára irányul.
 
@@ -18,7 +18,7 @@ A hangsúly az **AI-alapú megoldások rendszerszintű viselkedésén**, azok **
 
 ---
 
-## Fő Kutatási Irányok
+## Irányok
 
 ### 1. Nagy nyelvi modellek üzemeltetési és biztonsági adatokhoz
 

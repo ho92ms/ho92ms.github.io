@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "N�meth D�vid"
+title: "Németh Dávid"
 permalink: /hu/
 author_profile: true
 lang: hu
@@ -10,11 +10,11 @@ lang: hu
   <strong>HU</strong> | <a href="/">EN</a>
 </div>
 
-Kutat�m�rn�ki szeml�let� szoftverm�rn�k vagyok; f�kuszom a **v�llalati rendszerek** �s az **alkalmazott g�pi tanul�s** metszete.
+Kutatómérnöki szemléletű szoftvermérnök vagyok; fókuszom a **vállalati rendszerek** és az **alkalmazott gépi tanulás** metszete.
 
-A c�lom olyan megold�sok �p�t�se, amelyek:
-- **megb�zhat�ak** (�zemeltethet�k, biztons�gosak, megfigyelhet�k),
-- **m�rhet�k** (defini�lt metrik�k, tesztelhet� �ll�t�sok),
-- �s **hossz� t�von karbantarthat�k**.
+A célom olyan megoldások építése, amelyek:
+- **megbízhatóak** (üzemeltethetők, biztonságosak, megfigyelhetők),
+- **mérhetők** (definiált metrikák, tesztelhető állítások),
+- és **hosszú távon karbantarthatók**.
 
-A r�szletekhez haszn�ld a men�t: **About / Research / Experience / CV**.
+A részletekhez használd a menüt: **About / Research / Experience / CV**.
