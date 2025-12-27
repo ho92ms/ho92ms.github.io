@@ -3,7 +3,12 @@ layout: single
 title: "Nemeth David"
 permalink: /
 author_profile: true
+lang: en
 ---
+
+<div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
+  <a href="/hu/">🇭🇺 Magyar</a> | <strong>🇬🇧 English</strong>
+</div>
 
 ## About Me
 
