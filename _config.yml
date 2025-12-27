@@ -2,17 +2,43 @@ title: "Németh Dávid"
 name: "Németh Dávid"
 description: "Software Engineering, Machine Learning, Systems"
 url: "https://ho92ms.github.io"
+baseurl: ""
+repository: "ho92ms/ho92ms.github.io"
 
 author:
   name: "Németh Dávid"
+  bio: "Software Engineer | Machine Learning Researcher"
+  location: "Hungary"
   email: "neduabi@pm.me"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ho92ms"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:neduabi@pm.me"
+
+minimal_mistakes_skin: "contrast"
 
 markdown: kramdown
 highlighter: rouge
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-include-cache
 
 collections:
   pages:
@@ -25,3 +51,49 @@ defaults:
       type: pages
     values:
       layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+locale: "en-US"
+
+analytics:
+  provider: false
