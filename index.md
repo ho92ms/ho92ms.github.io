@@ -7,7 +7,7 @@ lang: en
 ---
 
 <div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <a href="/hu/">🇭🇺 Magyar</a> | <strong>🇬🇧 English</strong>
+  <a href="/hu/">HU Magyar</a> | <strong>EN English</strong>
 </div>
 
 ## About Me
@@ -49,8 +49,8 @@ I value approaches that balance **theoretical elegance** with **practical constr
 
 ## Contact
 
-📧 **Email:** [neduabi@pm.me](mailto:neduabi@pm.me)  
-🔗 **GitHub:** [github.com/ho92ms](https://github.com/ho92ms)
+Email: [neduabi@pm.me](mailto:neduabi@pm.me)  
+GitHub: [github.com/ho92ms](https://github.com/ho92ms)
 
 ---
 

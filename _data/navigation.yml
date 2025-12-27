@@ -9,19 +9,19 @@ main:
     url: /en/cv/
   - title: "Contact"
     url: /en/contact/
-  - title: "????"
+  - title: "HU"
     url: /hu/about/
 
 hu:
-  - title: "Rólam"
+  - title: "Rolam"
     url: /hu/about/
-  - title: "Kutatás"
+  - title: "Kutatas"
     url: /hu/research/
   - title: "Tapasztalat"
     url: /hu/experience/
-  - title: "Önéletrajz"
+  - title: "Oneletrajz"
     url: /hu/cv/
   - title: "Kapcsolat"
     url: /hu/contact/
-  - title: "????"
+  - title: "EN"
     url: /en/about/

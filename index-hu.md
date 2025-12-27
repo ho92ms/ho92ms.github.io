@@ -7,7 +7,7 @@ lang: hu
 ---
 
 <div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <strong>???? Magyar</strong> | <a href="/">???? English</a>
+  <strong>HU Magyar</strong> | <a href="/">EN English</a>
 </div>
 
 ## Rolam
@@ -49,8 +49,8 @@ Olyan megkozeliteseket ertekelek, amelyek egyensulyokat teremtenek az **elmeleti
 
 ## Kapcsolat
 
-?? **Email:** [neduabi@pm.me](mailto:neduabi@pm.me)  
-?? **GitHub:** [github.com/ho92ms](https://github.com/ho92ms)
+Email: [neduabi@pm.me](mailto:neduabi@pm.me)  
+GitHub: [github.com/ho92ms](https://github.com/ho92ms)
 
 ---
 
