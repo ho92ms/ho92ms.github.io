@@ -11,58 +11,58 @@ lang: hu
 
 ## Szakmai Profil
 
-Biztonsagi mernok es rendszerarchitekt vagyok, mely szakertelemmel a vallalati infrastruktura vedelemeben, az elosztott rendszerekben es az alkalmazott gepi tanulasban.
+Biztonsági mérnök és rendszerarchitekt vagyok, mely szakértelemmel a vállalati infrastruktúra védelmében, az elosztott rendszerekben és az alkalmazott gépi tanulásban.
 
-Munkam harom f� teruletre osszpontosit:
+Munkám három fő területre összpontosít:
 
-1. Vedekezo Biztonsagi Mernoki Munka - fenyegetes detektalas, hardening keretrendszerek es automatizalt megfelelos-ellenorzes
-2. Elosztott Rendszerarchitektura - hibaturo tervezes, halozati protokollok es ipari integracio
-3. Empirikus Szigor - adatvezerelt validacio, reprodukalhato modszertanok es merheto eredmenyek
+1. Védekezó Biztonsági Mérnöki Munka - fenyegetés detektálás, hardening keretrendszerek és automatizált megfelelőség-ellenőrzés
+2. Elosztott Rendszerarchitektúra - hibatűrő tervezés, hálózati protokollok és ipari integráció
+3. Empirikus Szigor - adatvezérelt validáció, reprodukálható módszertanok és mérhető eredmények
 
-## Filozofia
+## Filozófia
 
-A rendszertervezeshez harom szempontbol kovelitek:
+A rendszertervezéshez három szempontból közelítek:
 
-### 1. Biztonsag Elsorangu Tulajdonsagkent
-A biztonsag nem utolagos gondolat, architekturalis invarians.
+### 1. Biztonság Elsőrangú Tulajdonságként
+A biztonság nem utólagos gondolat, architektúrális invariáns.
 
-### 2. Automatizalas Formalis Specifikacion Keresztul
-A manualis folyamatok emberi hibahoz vezetnek.
+### 2. Automatizálás Formális Specifikáción Keresztül
+A manuális folyamatok emberi hibához vezetnek.
 
-### 3. Empirikus Validacio
-Az elmeleti modelleknek ki kell allniuk a valos korlatozasokat.
+### 3. Empirikus Validáció
+Az elméleti modelleknek ki kell állniuk a valós korlátozásokat.
 
-## Technikai Teruletek
+## Technikai Területek
 
-### Biztonsagi Mernoki Munka
-- Windows Hardening es Megfelelos-ellenorzes
-- Fenyegetes detektalas es Valaszadas
-- Halozati Biztonsag
+### Biztonsági Mérnöki Munka
+- Windows Hardening és Megfelelőség-ellenőrzés
+- Fenyegetés detektálás és Válaszadás
+- Hálózati Biztonság
 
-### Elosztott Rendszerek es Protokollok
-- WebSocket-alapu Relay Architektura (C# / .NET 8.0)
+### Elosztott Rendszerek és Protokollok
+- WebSocket-alapú Relay Architektúra (C# / .NET 8.0)
 - Ipari Protokollok (OPC UA)
 
-### Vallalati Infrastruktura es Automatizalas
-- Active Directory es Group Policy
-- OS Telepites es PXE Boot
-- Scripteles es Automatizalas
+### Vállalati Infrastruktúra és Automatizálás
+- Active Directory és Group Policy
+- OS Telepítés és PXE Boot
+- Scriptelés és Automatizálás
 
-### Gepi Tanulas es Adattudomany
-- Neuralis Halozat Tervezes
+### Gépi Tanulás és Adattudomány
+- Neurális Hálózat Tervezés
 - Nagy Nyelvi Modellek (LLM-ek)
-- Adatelemzes
+- Adatelemzés
 
-## Egyuttmukodes
+## Együttműködés
 
-Nyitott vagyok egyuttmukodesre a kovetkezo teruleteken:
-- Biztonsagi mernoki munka
+Nyitott vagyok együttműködésre a következő területeken:
+- Biztonsági mérnöki munka
 - Elosztott rendszerek
-- Alkalmazott gepi tanulas
-- Nyilt forraskodu eszkozok
+- Alkalmazott gépi tanulás
+- Nyílt forráskódú eszközök
 
-Lepj kapcsolatba email vagy GitHub utjan.
+Lépj kapcsolatba email vagy GitHub útján.
 
-## Alapertekek
+## Alapértékek
 
-Szigor, pragmatizmus, atlathatosag.
+Szigor, pragmatizmus, átláthatóság.
