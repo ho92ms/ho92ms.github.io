@@ -52,6 +52,6 @@ Kulonosen erdekelnek az alabbi temakban folytatott beszelgetesek vagy egyuttmuko
 ## Megjegyzes
 
 Ha toborzo vagy, kerem add meg:
-- Munkaköri leiras es kovetelmeny ek
+- Munkakï¿½ri leiras es kovetelmeny ek
 - Helyszin
 - Fizetesi sav

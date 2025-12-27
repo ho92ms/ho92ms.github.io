@@ -13,7 +13,7 @@ lang: hu
 
 Biztonsagi mernok es rendszerarchitekt vagyok, mely szakertelemmel a vallalati infrastruktura vedelemeben, az elosztott rendszerekben es az alkalmazott gepi tanulasban.
 
-Munkam harom fõ teruletre osszpontosit:
+Munkam harom fï¿½ teruletre osszpontosit:
 
 1. Vedekezo Biztonsagi Mernoki Munka - fenyegetes detektalas, hardening keretrendszerek es automatizalt megfelelos-ellenorzes
 2. Elosztott Rendszerarchitektura - hibaturo tervezes, halozati protokollok es ipari integracio

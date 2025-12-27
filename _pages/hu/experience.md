@@ -51,7 +51,7 @@ Kulcs Eredmeny: 15+ tavoli helyszin biztositasa nulla VPN leallassal 12 honapon 
 ### OS Telepites es PXE Boot
 - Windows Deployment Services + MDT
 - PXE boot konfiguralas
-- Felügyelet nelkuli telepitesek
+- Felï¿½gyelet nelkuli telepitesek
 
 Kulcs Eredmeny: Zero-touch telepites, imaging ido csokkentese 3 orabol 45 percre.
 

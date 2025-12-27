@@ -39,7 +39,7 @@ Kulcs Eredmeny: 100+ vallalati vegpont tamadasi feluletenek 40%-os csokkentese.
 - PowerShell Automatizalasi Keretrendszer
 - Halozati Protokoll Implementacio
 
-Kulcs Eredmeny: Biztonságos tavoli monitoring 30%-os kesleletes csokkentes sel.
+Kulcs Eredmeny: Biztonsï¿½gos tavoli monitoring 30%-os kesleletes csokkentes sel.
 
 ### Gepi Tanulas Mernok es Kutato
 
@@ -76,7 +76,7 @@ Kulcs Eredmeny: Biztonságos tavoli monitoring 30%-os kesleletes csokkentes sel.
 ## Kulcs Projektek
 
 ### 1. Reverse Tunnel Architektura (C# / .NET 8.0)
-Biztonságos ipari protokoll hozzaferes WebSocketen keresztul
+Biztonsï¿½gos ipari protokoll hozzaferes WebSocketen keresztul
 
 ### 2. Vallalati Biztonsagi Hardening Keretrendszer
 Automatizalt Windows megfelelos-ellenorzes es fenyegetesdetektalas

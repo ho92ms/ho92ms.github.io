@@ -24,7 +24,7 @@ Kutatasi erdeklodesem a biztonsagi mernoki munka, az elosztott rendszerek elmele
 
 Kutatasi Kerdesek:
 - Hogyan minimalizalhatjuk a hamis pozitiv aranyt?
-- Melyek az optimalis elhelyezesi strategiak honeypot eroforrásokhoz?
+- Melyek az optimalis elhelyezesi strategiak honeypot eroforrï¿½sokhoz?
 - Felulmulhatjak-e a gepi tanulasi modellek a szabalyalapu SIEM rendszereket?
 
 #### Automatizalt Megfelelos-ellenorzes es Hardening
@@ -52,7 +52,7 @@ Kutatasi Kerdesek:
 ### 3. Gepi Tanulas Biztonsagi Alkalmazasokhoz
 
 #### Adversarial Gepi Tanulas
-- Robusztusság adversarial peldakkal szemben
+- Robusztussï¿½g adversarial peldakkal szemben
 - Modell mergezesi tamadasok
 - Certifikalt vedelem
 
@@ -100,7 +100,7 @@ Kutatasi Kerdesek:
 - Megkozelites: Kozpontositott log aggregacio, korrelaci os elemzes
 
 ### 3. LLM-tamogatott Threat Hunting
-- Cel: LLM-ek hasznalata event log-ok termeszetes nyelvü lekerdez esehez
+- Cel: LLM-ek hasznalata event log-ok termeszetes nyelvï¿½ lekerdez esehez
 - Megkozelites: Finomhangolas annotalt biztonsagi adathalmazokon
 
 ## Publikaciok es Nyilt Forraskod
