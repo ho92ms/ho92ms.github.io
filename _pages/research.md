@@ -13,25 +13,25 @@ My research interests lie at the intersection of **applied machine learning** an
 ## Core Topics
 
 ### 1. Representation Learning
-- **Neural network architectures** — understanding and designing effective representations.
-- **Latent space structure** — interpretable embeddings and manifold learning.
-- **Transfer learning** — leveraging pre-trained models for domain-specific tasks.
+- **Neural network architectures** ï¿½ understanding and designing effective representations.
+- **Latent space structure** ï¿½ interpretable embeddings and manifold learning.
+- **Transfer learning** ï¿½ leveraging pre-trained models for domain-specific tasks.
 
 ### 2. Large Language Models (LLMs)
 - **Prompt engineering** and optimization strategies.
 - **Fine-tuning techniques** for specialized domains.
-- **Interpretability** — understanding model behavior and decision-making processes.
-- **Practical applications** — building LLM-based systems with reliability and transparency.
+- **Interpretability** ï¿½ understanding model behavior and decision-making processes.
+- **Practical applications** ï¿½ building LLM-based systems with reliability and transparency.
 
 ### 3. Interpretable Machine Learning
-- **Structurally transparent models** — preferring architectures with clear inductive biases.
-- **Explainability methods** — post-hoc analysis and intrinsic interpretability.
-- **Model auditing** — validation, fairness, and robustness guarantees.
+- **Structurally transparent models** ï¿½ preferring architectures with clear inductive biases.
+- **Explainability methods** ï¿½ post-hoc analysis and intrinsic interpretability.
+- **Model auditing** ï¿½ validation, fairness, and robustness guarantees.
 
 ### 4. System-Level Performance
-- **Scalability** — designing ML systems that handle large-scale data efficiently.
-- **Deployment** — bridging the gap between research prototypes and production systems.
-- **Optimization** — balancing model complexity with computational constraints.
+- **Scalability** ï¿½ designing ML systems that handle large-scale data efficiently.
+- **Deployment** ï¿½ bridging the gap between research prototypes and production systems.
+- **Optimization** ï¿½ balancing model complexity with computational constraints.
 
 ---
 
@@ -39,9 +39,9 @@ My research interests lie at the intersection of **applied machine learning** an
 
 I emphasize approaches that prioritize:
 
-1. **Structure over ad-hoc optimization** — leveraging domain knowledge and formal priors.
-2. **Reproducibility** — transparent methodologies and open-source implementations.
-3. **Empirical validation** — rigorous experimentation with well-defined metrics.
+1. **Structure over ad-hoc optimization** ï¿½ leveraging domain knowledge and formal priors.
+2. **Reproducibility** ï¿½ transparent methodologies and open-source implementations.
+3. **Empirical validation** ï¿½ rigorous experimentation with well-defined metrics.
 
 ---
 
@@ -49,9 +49,9 @@ I emphasize approaches that prioritize:
 
 My current work explores:
 
-- **LLM-based agents** — designing systems with clear reasoning and error-handling mechanisms.
-- **Neural architecture design** — exploring inductive biases that improve generalization.
-- **Data efficiency** — methods that achieve strong performance with limited labeled data.
+- **LLM-based agents** ï¿½ designing systems with clear reasoning and error-handling mechanisms.
+- **Neural architecture design** ï¿½ exploring inductive biases that improve generalization.
+- **Data efficiency** ï¿½ methods that achieve strong performance with limited labeled data.
 
 ---
 
@@ -64,3 +64,4 @@ For collaboration or discussions, feel free to reach out at [neduabi@pm.me](mail
 ---
 
 > *"Structure, interpretability, and reproducibility over ad-hoc optimization."*
+

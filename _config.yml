@@ -1,12 +1,12 @@
-title: "Németh Dávid"
-name: "Németh Dávid"
+title: "Nemeth David"
+name: "Nemeth David"
 description: "Software Engineering, Machine Learning, Systems"
 url: "https://ho92ms.github.io"
 baseurl: ""
 repository: "ho92ms/ho92ms.github.io"
 
 author:
-  name: "Németh Dávid"
+  name: "Nemeth David"
   bio: "Software Engineer | Machine Learning Researcher"
   location: "Hungary"
   email: "neduabi@pm.me"
@@ -99,3 +99,4 @@ locale: "en-US"
 
 analytics:
   provider: false
+

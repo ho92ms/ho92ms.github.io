@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Németh Dávid"
+title: "Nemeth David"
 permalink: /
 author_profile: true
 ---
@@ -10,9 +10,9 @@ author_profile: true
 I am a **software engineer** and **machine learning researcher** with a background in enterprise-scale systems and applied computational methods.
 
 My work focuses on the intersection of:
-- **rigorous system design** — building reliable, maintainable architectures,
-- **applied machine learning** — data-driven models with clear theoretical foundations,
-- **mathematical structure** — preferring solutions that are conceptually simple and empirically verifiable.
+- **rigorous system design** ï¿½ building reliable, maintainable architectures,
+- **applied machine learning** ï¿½ data-driven models with clear theoretical foundations,
+- **mathematical structure** ï¿½ preferring solutions that are conceptually simple and empirically verifiable.
 
 I value approaches that balance **theoretical elegance** with **practical constraints**, and I am particularly interested in problems where formal methods meet real-world complexity.
 
@@ -29,9 +29,9 @@ I value approaches that balance **theoretical elegance** with **practical constr
 
 ## Professional Background
 
-- **Enterprise IT systems** — Windows/Linux infrastructure, cloud platforms (Azure), DevOps workflows
-- **Software engineering** — backend development, RESTful APIs, CI/CD automation
-- **Machine learning** — applied neural networks, data analysis in Python, LLM-based experimentation
+- **Enterprise IT systems** ï¿½ Windows/Linux infrastructure, cloud platforms (Azure), DevOps workflows
+- **Software engineering** ï¿½ backend development, RESTful APIs, CI/CD automation
+- **Machine learning** ï¿½ applied neural networks, data analysis in Python, LLM-based experimentation
 
 ---
 
@@ -50,3 +50,4 @@ I value approaches that balance **theoretical elegance** with **practical constr
 ---
 
 > *"Conceptually simple. Mathematically grounded. Empirically verifiable."*
+

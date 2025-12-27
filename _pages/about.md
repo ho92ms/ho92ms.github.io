@@ -8,9 +8,9 @@ layout: single
 
 I am a **software engineer** with a focus on **enterprise-scale systems** and **applied machine learning**. My work bridges the gap between theoretical foundations and practical implementation, with emphasis on:
 
-1. **System reliability** — architectures that are maintainable, scalable, and robust under real-world constraints.
-2. **Mathematical rigor** — solutions grounded in formal methods and verifiable principles.
-3. **Empirical validation** — data-driven approaches with reproducible results.
+1. **System reliability** ï¿½ architectures that are maintainable, scalable, and robust under real-world constraints.
+2. **Mathematical rigor** ï¿½ solutions grounded in formal methods and verifiable principles.
+3. **Empirical validation** ï¿½ data-driven approaches with reproducible results.
 
 ---
 
@@ -18,9 +18,9 @@ I am a **software engineer** with a focus on **enterprise-scale systems** and **
 
 I prefer solutions that satisfy three criteria:
 
-- **Conceptually simple** — clear abstractions that reduce cognitive complexity.
-- **Mathematically well-founded** — formal guarantees where applicable.
-- **Empirically verifiable** — testable hypotheses and measurable outcomes.
+- **Conceptually simple** ï¿½ clear abstractions that reduce cognitive complexity.
+- **Mathematically well-founded** ï¿½ formal guarantees where applicable.
+- **Empirically verifiable** ï¿½ testable hypotheses and measurable outcomes.
 
 This philosophy guides my approach to both **software engineering** and **machine learning research**.
 
@@ -66,3 +66,4 @@ I am open to collaboration on projects involving:
 - Open-source software development
 
 Feel free to reach out via [email](mailto:neduabi@pm.me) or [GitHub](https://github.com/ho92ms).
+

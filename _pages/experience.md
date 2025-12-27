@@ -13,33 +13,33 @@ My professional background spans **enterprise IT systems**, **software engineeri
 ## 1. Enterprise Systems & Infrastructure
 
 ### Cloud & Virtualization
-- **Azure cloud platform** — resource management, security, and compliance.
-- **Virtualization technologies** — Hyper-V, VMware, containerization (Docker).
-- **Infrastructure automation** — infrastructure-as-code (IaC) with Terraform and ARM templates.
+- **Azure cloud platform** ï¿½ resource management, security, and compliance.
+- **Virtualization technologies** ï¿½ Hyper-V, VMware, containerization (Docker).
+- **Infrastructure automation** ï¿½ infrastructure-as-code (IaC) with Terraform and ARM templates.
 
 ### Endpoint Management
-- **Windows environments** — Active Directory, Group Policy, SCCM/Intune.
-- **Linux systems** — server administration, shell scripting, configuration management.
-- **Security & compliance** — endpoint protection, vulnerability management, audit workflows.
+- **Windows environments** ï¿½ Active Directory, Group Policy, SCCM/Intune.
+- **Linux systems** ï¿½ server administration, shell scripting, configuration management.
+- **Security & compliance** ï¿½ endpoint protection, vulnerability management, audit workflows.
 
 ### DevOps & Automation
-- **CI/CD pipelines** — Jenkins, Azure DevOps, GitHub Actions.
-- **Monitoring & logging** — centralized log management, performance metrics.
-- **Scripting & automation** — PowerShell, Bash, Python for operational tasks.
+- **CI/CD pipelines** ï¿½ Jenkins, Azure DevOps, GitHub Actions.
+- **Monitoring & logging** ï¿½ centralized log management, performance metrics.
+- **Scripting & automation** ï¿½ PowerShell, Bash, Python for operational tasks.
 
 ---
 
 ## 2. Software Engineering
 
 ### Backend Development
-- **RESTful APIs** — designing scalable, versioned endpoints.
-- **Database systems** — SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
-- **Microservices** — distributed architectures, service orchestration.
+- **RESTful APIs** ï¿½ designing scalable, versioned endpoints.
+- **Database systems** ï¿½ SQL (PostgreSQL, MySQL), NoSQL (MongoDB).
+- **Microservices** ï¿½ distributed architectures, service orchestration.
 
 ### Development Practices
-- **Version control** — Git workflows, branching strategies, code review.
-- **Testing** — unit tests, integration tests, test-driven development (TDD).
-- **Documentation** — technical writing, API documentation, architecture diagrams.
+- **Version control** ï¿½ Git workflows, branching strategies, code review.
+- **Testing** ï¿½ unit tests, integration tests, test-driven development (TDD).
+- **Documentation** ï¿½ technical writing, API documentation, architecture diagrams.
 
 ### Technologies
 - **Languages:** Python, C++, Java, C#, JavaScript/TypeScript.
@@ -51,35 +51,35 @@ My professional background spans **enterprise IT systems**, **software engineeri
 ## 3. Machine Learning & Data Science
 
 ### Applied Neural Networks
-- **Deep learning frameworks** — PyTorch, TensorFlow/Keras.
-- **Model development** — training, validation, hyperparameter tuning.
-- **Deployment** — serving models via REST APIs, containerized inference.
+- **Deep learning frameworks** ï¿½ PyTorch, TensorFlow/Keras.
+- **Model development** ï¿½ training, validation, hyperparameter tuning.
+- **Deployment** ï¿½ serving models via REST APIs, containerized inference.
 
 ### Data Analysis
-- **Exploratory data analysis (EDA)** — statistical summaries, visualizations.
-- **Feature engineering** — domain-specific transformations and representations.
-- **Experimentation** — A/B testing, statistical validation, reproducible research.
+- **Exploratory data analysis (EDA)** ï¿½ statistical summaries, visualizations.
+- **Feature engineering** ï¿½ domain-specific transformations and representations.
+- **Experimentation** ï¿½ A/B testing, statistical validation, reproducible research.
 
 ### LLM-Based Systems
-- **Prompt engineering** — optimizing inputs for large language models.
-- **Fine-tuning** — domain adaptation with LoRA, prefix tuning.
-- **System integration** — building LLM-powered applications with error handling and monitoring.
+- **Prompt engineering** ï¿½ optimizing inputs for large language models.
+- **Fine-tuning** ï¿½ domain adaptation with LoRA, prefix tuning.
+- **System integration** ï¿½ building LLM-powered applications with error handling and monitoring.
 
 ---
 
 ## 4. Leadership & Collaboration
 
-- **Technical leadership** — guiding teams through system migrations and architectural decisions.
-- **Cross-functional collaboration** — working with product, security, and operations teams.
-- **Mentorship** — onboarding junior engineers, code reviews, knowledge sharing.
+- **Technical leadership** ï¿½ guiding teams through system migrations and architectural decisions.
+- **Cross-functional collaboration** ï¿½ working with product, security, and operations teams.
+- **Mentorship** ï¿½ onboarding junior engineers, code reviews, knowledge sharing.
 
 ---
 
 ## Key Strengths
 
-1. **Bridging theory and practice** — applying formal methods to real-world systems.
-2. **End-to-end ownership** — from design and implementation to deployment and monitoring.
-3. **Systematic problem-solving** — breaking down complex challenges into manageable components.
+1. **Bridging theory and practice** ï¿½ applying formal methods to real-world systems.
+2. **End-to-end ownership** ï¿½ from design and implementation to deployment and monitoring.
+3. **Systematic problem-solving** ï¿½ breaking down complex challenges into manageable components.
 
 ---
 
@@ -89,3 +89,4 @@ For professional inquiries or collaboration opportunities:
 
 ?? **Email:** [neduabi@pm.me](mailto:neduabi@pm.me)  
 ?? **GitHub:** [github.com/ho92ms](https://github.com/ho92ms)
+

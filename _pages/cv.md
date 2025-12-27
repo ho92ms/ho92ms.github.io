@@ -4,11 +4,11 @@ permalink: /cv/
 layout: single
 ---
 
-## Németh Dávid
+## Nemeth David
 
 **Software Engineer | Machine Learning Researcher**
 
-?? [neduabi@pm.me](mailto:neduabi@pm.me) | ?? [github.com/ho92ms](https://github.com/ho92ms)
+ðŸ“§ [neduabi@pm.me](mailto:neduabi@pm.me) | ðŸ”— [github.com/ho92ms](https://github.com/ho92ms)
 
 ---
 
@@ -38,7 +38,7 @@ Focus: System design, algorithms, distributed systems
 
 ### Machine Learning Engineer
 - Applied **neural networks** for classification, regression, and generative tasks.
-- Worked with **large language models (LLMs)** — fine-tuning, prompt engineering, deployment.
+- Worked with **large language models (LLMs)** â€” fine-tuning, prompt engineering, deployment.
 - Conducted **data analysis** and **statistical modeling** in Python (NumPy, Pandas, scikit-learn).
 - Built **end-to-end ML systems** from experimentation to production deployment.
 
@@ -97,9 +97,11 @@ Selected work and open-source contributions are available on [GitHub](https://gi
 
 ## Contact
 
-?? **Email:** [neduabi@pm.me](mailto:neduabi@pm.me)  
-?? **GitHub:** [github.com/ho92ms](https://github.com/ho92ms)
+ðŸ“§ **Email:** [neduabi@pm.me](mailto:neduabi@pm.me)  
+ðŸ”— **GitHub:** [github.com/ho92ms](https://github.com/ho92ms)
 
 ---
 
 *Last updated: 2025*
+
+
