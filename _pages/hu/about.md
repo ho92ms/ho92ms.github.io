@@ -11,12 +11,12 @@ lang: hu
 
 ## Szakmai Profil
 
-Biztonsági mérnök és rendszerarchitekt vagyok, mely szakértelemmel a vállalati infrastruktúra védelmében, az elosztott rendszerekben és az alkalmazott gépi tanulásban.
+Biztonságmérnök- és rendszerarchitekt vagyok, mély szakértelemmel a vállalati infrastruktúra védelmében, az elosztott rendszerekben és az alkalmazott gépi tanulásban.
 
 Munkám három fő területre összpontosít:
 
-1. Védekezó Biztonsági Mérnöki Munka - fenyegetés detektálás, hardening keretrendszerek és automatizált megfelelőség-ellenőrzés
-2. Elosztott Rendszerarchitektúra - hibatűrő tervezés, hálózati protokollok és ipari integráció
+1. Protektív Mérnöki Munka - fenyegetés detektálás, hardening keretrendszerek és automatizált megfelelőség-ellenőrzés
+2. Elosztott Rendszerarchitektúra - hibatűrő tervezés, hálózati protokollok, topológiák és ipari integráció
 3. Empirikus Szigor - adatvezérelt validáció, reprodukálható módszertanok és mérhető eredmények
 
 ## Filozófia
