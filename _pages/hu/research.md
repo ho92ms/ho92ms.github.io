@@ -1,12 +1,12 @@
 ---
-title: "Kutatás"
+title: "Kutatas"
 permalink: /hu/research/
 layout: single
 lang: hu
 ---
 
 <div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <strong>🇭🇺 Magyar</strong> | <a href="/en/research/">🇬🇧 English</a>
+  <strong>HU Magyar</strong> | <a href="/en/research/">EN English</a>
 </div>
 
 ## Kutatási Érdeklődés

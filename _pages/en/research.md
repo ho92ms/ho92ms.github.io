@@ -6,7 +6,7 @@ lang: en
 ---
 
 <div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <a href="/hu/research/">🇭🇺 Magyar</a> | <strong>🇬🇧 English</strong>
+  <a href="/hu/research/">HU Magyar</a> | <strong>EN English</strong>
 </div>
 
 ## Research Interests

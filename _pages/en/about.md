@@ -6,7 +6,7 @@ lang: en
 ---
 
 <div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <a href="/hu/about/">🇭🇺 Magyar</a> | <strong>🇬🇧 English</strong>
+  <a href="/hu/about/">HU Magyar</a> | <strong>EN English</strong>
 </div>
 
 ## Professional Profile

@@ -6,7 +6,7 @@ lang: en
 ---
 
 <div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <a href="/hu/cv/">🇭🇺 Magyar</a> | <strong>🇬🇧 English</strong>
+  <a href="/hu/cv/">HU Magyar</a> | <strong>EN English</strong>
 </div>
 
 ## Nemeth David
@@ -202,6 +202,7 @@ Selected work and experiments are available on [GitHub](https://github.com/ho92m
 ---
 
 *Last updated: December 2025*
+
 
 
 

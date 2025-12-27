@@ -1,12 +1,12 @@
 ---
-title: "Önéletrajz"
+title: "Oneletrajz"
 permalink: /hu/cv/
 layout: single
 lang: hu
 ---
 
 <div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <strong>🇭🇺 Magyar</strong> | <a href="/en/cv/">🇬🇧 English</a>
+  <strong>HU Magyar</strong> | <a href="/en/cv/">EN English</a>
 </div>
 
 ## Németh Dávid
@@ -86,7 +86,7 @@ lang: hu
 - **Mély Tanulási Keretrendszerek**
   - Tervezett és tanított **neurális hálózati architektúrákat** (PyTorch, TensorFlow/Keras)
   - Végzett **hiperparaméter-optimalizálást** Bayes-i módszerekkel és rács kereséssel
-  - Telepített **követési csővezetékeket** REST API-kon keresztül konténerizált környezetekben (Docker)
+  - Telepített **követési csővezetékket** REST API-kon keresztül konténerizált környezetekben (Docker)
 
 - **Nagy Nyelvi Modellek (LLM)**
   - Finomhangolt **domain-specifikus modellek** LoRA és prefix tuning használatával

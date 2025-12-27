@@ -6,7 +6,7 @@ lang: hu
 ---
 
 <div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
-  <strong>🇭🇺 Magyar</strong> | <a href="/en/experience/">🇬🇧 English</a>
+  <strong>HU Magyar</strong> | <a href="/en/experience/">EN English</a>
 </div>
 
 ## Áttekintés
