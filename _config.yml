@@ -18,7 +18,8 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:neduabi@pm.me"
 
-minimal_mistakes_skin: "contrast"
+# Site theme settings (Academic Pages uses 'default')
+site_theme: "default"
 
 markdown: kramdown
 highlighter: rouge
@@ -74,6 +75,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .vs
   - Capfile
   - CHANGELOG
   - config
