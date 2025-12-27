@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Németh Dávid"
+title: "Nï¿½meth Dï¿½vid"
 permalink: /hu/
 author_profile: true
 lang: hu
@@ -10,11 +10,11 @@ lang: hu
   <strong>HU</strong> | <a href="/">EN</a>
 </div>
 
-Kutatómérnöki szemléletû szoftvermérnök vagyok; fókuszom a **vállalati rendszerek** és az **alkalmazott gépi tanulás** metszete.
+Kutatï¿½mï¿½rnï¿½ki szemlï¿½letï¿½ szoftvermï¿½rnï¿½k vagyok; fï¿½kuszom a **vï¿½llalati rendszerek** ï¿½s az **alkalmazott gï¿½pi tanulï¿½s** metszete.
 
-A célom olyan megoldások építése, amelyek:
-- **megbízhatóak** (üzemeltethetõk, biztonságosak, megfigyelhetõk),
-- **mérhetõk** (definiált metrikák, tesztelhetõ állítások),
-- és **hosszú távon karbantarthatók**.
+A cï¿½lom olyan megoldï¿½sok ï¿½pï¿½tï¿½se, amelyek:
+- **megbï¿½zhatï¿½ak** (ï¿½zemeltethetï¿½k, biztonsï¿½gosak, megfigyelhetï¿½k),
+- **mï¿½rhetï¿½k** (definiï¿½lt metrikï¿½k, tesztelhetï¿½ ï¿½llï¿½tï¿½sok),
+- ï¿½s **hosszï¿½ tï¿½von karbantarthatï¿½k**.
 
-A részletekhez használd a menüt: **About / Research / Experience / CV**.
+A rï¿½szletekhez hasznï¿½ld a menï¿½t: **About / Research / Experience / CV**.
