@@ -1,5 +1,5 @@
 ---
-title: "Rolam"
+title: ""
 permalink: /hu/about/
 layout: single
 lang: hu

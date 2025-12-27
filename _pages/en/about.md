@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 permalink: /en/about/
 layout: single
 lang: en
