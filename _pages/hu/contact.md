@@ -9,49 +9,49 @@ lang: hu
   <strong>HU Magyar</strong> | <a href="/en/contact/">EN English</a>
 </div>
 
-## Lepj kapcsolatba
+## Lépj kapcsolatba
 
-Nyitott vagyok egyuttmukodesre alkalmazott gepi tanulas, rendszertervezes es szoftverfejlesztes temaju projektekben.
+Nyitott vagyok együttműködésre alkalmazott gépi tanulás, rendszertervezés és szoftverfejlesztés témájú projektekben.
 
-## Szakmai Megkeresesek
+## Szakmai Megkeresések
 
 Email: neduabi@pm.me
 
-Kerem adj meg egyertelmu targyat es rovid leirast a megkeresesedrol. Altalaban 2-3 munkanapon belul valaszolok.
+Kérlek adj meg egyértelmű tárgyat és rövid leírást a megkeresésedről. Általában 2-3 munkanapon belül válaszolok.
 
-## Nyilt Forraskod es Egyuttmukodes
+## Nyílt Forráskód és Együttműködés
 
 GitHub: github.com/ho92ms
 
-Nyugodtan bongessd a repository-imat, nyiss issue-kat vagy kuld pull request-eket.
+Nyugodtan böngészd a repository-imat, nyiss issue-kat vagy küldj pull request-eket.
 
-## Erdeklodesi Teruletek
+## Érdeklődési Területek
 
-Kulonosen erdekelnek az alabbi temakban folytatott beszelgetesek vagy egyuttmukodesek:
+Különösen érdekelnek az alábbi témákban folytatott beszélgetések vagy együttműködések:
 
-1. Gepi Tanulas Kutatas
-   - Reprezentaciotanulas es neuralis architektura tervezes
-   - Nagy nyelvi modellek es alkalmazasaik
-   - Interpretalhato es atlathatoAI rendszerek
+1. Gépi Tanulás Kutatás
+   - Reprezentációtanulás és neurális architektúra tervezés
+   - Nagy nyelvi modellek és alkalmazásaik
+   - Interpretálható és átlátható AI rendszerek
 
-2. Szoftverfejlesztes
-   - Rendszertervezes es skalaz hato architekturak
-   - Backend fejlesztes es API tervezes
-   - DevOps gyakorlatok es automatizalas
+2. Szoftverfejlesztés
+   - Rendszertervezés és skálázható architektúrák
+   - Backend fejlesztés és API tervezés
+   - DevOps gyakorlatok és automatizálás
 
-3. Vallalati Rendszerek
-   - Felho infrastruktura
-   - Biztonsag es megfelelos-ellenorzes
-   - Infrastructure-as-code es automatizalas
+3. Vállalati Rendszerek
+   - Felhő infrastruktúra
+   - Biztonság és megfelelőség-ellenőrzés
+   - Infrastructure-as-code és automatizálás
 
-## Valaszido
+## Válaszidő
 
 - Email: 2-3 munkanap
-- GitHub: Altalaban egy heten belul
+- GitHub: Általában egy héten belül
 
-## Megjegyzes
+## Megjegyzés
 
-Ha toborzo vagy, kerem add meg:
-- Munkak�ri leiras es kovetelmeny ek
-- Helyszin
-- Fizetesi sav
+Ha toborzó vagy, kérlek add meg:
+- Munkakör leírás és követelmények
+- Helyszín
+- Fizetési sáv

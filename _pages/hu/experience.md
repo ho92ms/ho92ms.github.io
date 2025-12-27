@@ -9,78 +9,78 @@ lang: hu
   <strong>HU Magyar</strong> | <a href="/en/experience/">EN English</a>
 </div>
 
-## Attekintes
+## Áttekintés
 
-Szakmai hatterem a vallalati biztonsagi mernoki munka, az elosztott rendszerarchitektura es az alkalmazott gepi tanulas teruleteit oleli fel.
+Szakmai hátterem a vállalati biztonsági mérnöki munka, az elosztott rendszerarchitektúra és az alkalmazott gépi tanulás területeit öleli fel.
 
-## 1. Biztonsagi Mernoki Munka es Infrastruktura Hardening
+## 1. Biztonsági Mérnöki Munka és Infrastruktúra Hardening
 
-### Windows Biztonsagi Hardening
-- STIG es CIS Benchmark alkalmazasa
-- Microsoft Security Baseline-ok telepitese
-- Automatizalt hardening HardeningKitty es PowerShell DSC-vel
-- Windows Defender ASR szabalyok konfiguralasa
+### Windows Biztonsági Hardening
+- STIG és CIS Benchmark alkalmazása
+- Microsoft Security Baseline-ok telepítése
+- Automatizált hardening HardeningKitty és PowerShell DSC-vel
+- Windows Defender ASR szabályok konfigurálása
 
-Kulcs Eredmeny: 40%-os csokkentes a tamadasi feluleten 100+ vallalati vegponton.
+Kulcs Eredmény: 40%-os csökkentés a támadási felületen 100+ vállalati végponton.
 
-### Fenyegetesdetektalas es Incidensvalasz
+### Fenyegetésdetektálás és Incidensválasz
 
-- Honeypot rendszerek epitese
-- Viselkedeselemzo scriptek (PowerShell-alapu EDR)
-- Wazuh SIEM integracio
-- Automatizalt incidensvalasz RDP brute-force tamadasokra
+- Honeypot rendszerek építése
+- Viselkedéselemző scriptek (PowerShell-alapú EDR)
+- Wazuh SIEM integráció
+- Automatizált incidensválasz RDP brute-force támadásokra
 
-Kulcs Eredmeny: 3 ransomware szimulacio detektalasa 15 masodpercen belul.
+Kulcs Eredmény: 3 ransomware szimuláció detektálása 15 másodpercen belül.
 
-### Halozati Biztonsagi Architektura
+### Hálózati Biztonsági Architektúra
 
 - Site-to-site VPN (IPSec, SSL VPN)
 - SSH tunneling
-- DNS-over-HTTPS telepites
-- Reverse tunnel architektura (C# / .NET 8.0)
+- DNS-over-HTTPS telepítés
+- Reverse tunnel architektúra (C# / .NET 8.0)
 
-Kulcs Eredmeny: 15+ tavoli helyszin biztositasa nulla VPN leallassal 12 honapon keresztul.
+Kulcs Eredmény: 15+ távoli helyszín biztosítása nulla VPN leállással 12 hónapon keresztül.
 
-## 2. Vallalati Infrastruktura es Automatizalas
+## 2. Vállalati Infrastruktúra és Automatizálás
 
-### Active Directory es Group Policy
-- Domain controller telepites automatizalasa
-- GPO kezelesi keretrendszer
-- Felhasznalo-letrehozo scriptek RBAC-kal
+### Active Directory és Group Policy
+- Domain controller telepítés automatizálása
+- GPO kezelési keretrendszer
+- Felhasználó-létrehozó scriptek RBAC-kal
 
-### OS Telepites es PXE Boot
+### OS Telepítés és PXE Boot
 - Windows Deployment Services + MDT
-- PXE boot konfiguralas
-- Fel�gyelet nelkuli telepitesek
+- PXE boot konfigurálás
+- Felügyelet nélküli telepítések
 
-Kulcs Eredmeny: Zero-touch telepites, imaging ido csokkentese 3 orabol 45 percre.
+Kulcs Eredmény: Zero-touch telepítés, imaging idő csökkentése 3 óráról 45 percre.
 
-### PowerShell Automatizalas
-- Modularis library gyakori muveletekhekhez
-- Esemenyvezerelt monitoring rendszerek
-- Backup/restore automatizalas
+### PowerShell Automatizálás
+- Moduláris library gyakori műveletekhez
+- Eseményvezérelt monitoring rendszerek
+- Backup/restore automatizálás
 
-## 3. Elosztott Rendszerek es Protokollok
+## 3. Elosztott Rendszerek és Protokollok
 
-### WebSocket-alapu Relay Szerver
-- Konkurens kapcsolatkezeles
-- Aszinkron I/O mintak
+### WebSocket-alapú Relay Szerver
+- Konkurens kapcsolatkezelés
+- Aszinkron I/O minták
 - OPC UA mock szerver
 
-Teljesitmeny: 100+ konkurens tunnel kapcsolat kezelese 50ms alatti kesleltetesse l.
+Teljesítmény: 100+ konkurens tunnel kapcsolat kezelése 50ms alatti késleltetéssel.
 
-## 4. Gepi Tanulas es Adattudomany
+## 4. Gépi Tanulás és Adattudomány
 
-- Mely tanulasi keretrendszerek (PyTorch, TensorFlow)
-- LLM-ek finomhangolasa
-- Adatelemzes es statisztikai modellezes
+- Mély tanulási keretrendszerek (PyTorch, TensorFlow)
+- LLM-ek finomhangolása
+- Adatelemzés és statisztikai modellezés
 
-## Kulcs Erossegek
+## Kulcs Erősségek
 
-1. Biztonsagi Mernoki Munka
-2. Rendszerarchitektura
-3. Automatizalas es Scripteles
-4. Operativ Kivalosag
+1. Biztonsági Mérnöki Munka
+2. Rendszerarchitektúra
+3. Automatizálás és Scriptelés
+4. Operatív Kiválóság
 
 ## Kapcsolat
 

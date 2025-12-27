@@ -1,5 +1,5 @@
 ---
-title: "Kutatas"
+title: "Kutatás"
 permalink: /hu/research/
 layout: single
 lang: hu
@@ -9,102 +9,102 @@ lang: hu
   <strong>HU Magyar</strong> | <a href="/en/research/">EN English</a>
 </div>
 
-## Kutatasi Erdeklodes
+## Kutatási Érdeklődés
 
-Kutatasi erdeklodesem a biztonsagi mernoki munka, az elosztott rendszerek elmelet e es az alkalmazott gepi tanulas metsespontjara osszpontosit.
+Kutatási érdeklődésem a biztonsági mérnöki munka, az elosztott rendszerek elmélete és az alkalmazott gépi tanulás metszéspontjára összpontosít.
 
-## Fo Kutatasi Teruletek
+## Fő Kutatási Területek
 
-### 1. Biztonsagi Mernoki Munka es Threat Intelligence
+### 1. Biztonsági Mérnöki Munka és Threat Intelligence
 
-#### Viselkedeselemzes-alapu Fenyegetesdetektalas
-- Anomaliadetektalo rendszerek
-- Honeypot architekturak
-- Esemenykorrelacio
+#### Viselkedéselemzés-alapú Fenyegetésdetektálás
+- Anomáliadetektáló rendszerek
+- Honeypot architektúrák
+- Eseménykorreláció
 
-Kutatasi Kerdesek:
-- Hogyan minimalizalhatjuk a hamis pozitiv aranyt?
-- Melyek az optimalis elhelyezesi strategiak honeypot eroforr�sokhoz?
-- Felulmulhatjak-e a gepi tanulasi modellek a szabalyalapu SIEM rendszereket?
+Kutatási Kérdések:
+- Hogyan minimalizálhatjuk a hamis pozitív arányt?
+- Melyek az optimális elhelyezési stratégiák honeypot erőforrásokhoz?
+- Felülmúlhatják-e a gépi tanulási modellek a szabályalapú SIEM rendszereket?
 
-#### Automatizalt Megfelelos-ellenorzes es Hardening
-- Biztonsagi szabalyzatok formalis verifikacioja
-- Konfiguracio-elteres detektalas
+#### Automatizált Megfelelőség-ellenőrzés és Hardening
+- Biztonsági szabályzatok formális verifikációja
+- Konfiguráció-eltérés detektálás
 - Hardening benchmark-ok
 
-### 2. Elosztott Rendszerek es Halozati Protokollok
+### 2. Elosztott Rendszerek és Hálózati Protokollok
 
-#### Hibaturo Architekturak
+#### Hibatűrő Architektúrák
 - Konszenzus protokollok (Paxos, Raft)
-- CAP tetel kompromisszumok
-- Hiba-injektalas teszteles
+- CAP tétel kompromisszumok
+- Hiba-injektálás tesztelés
 
-#### WebSocket-alapu Tunneling
-- NAT atjarasi technikak
-- Protokoll multiplexeles
-- Kapcsolatkezeles
+#### WebSocket-alapú Tunneling
+- NAT átjárási technikák
+- Protokoll multiplexelés
+- Kapcsolatkezelés
 
-#### Ipari IoT es OPC UA
-- Biztonsagi bovitesek
-- Valos ideju korlatozasok
-- Interoperabilitas
+#### Ipari IoT és OPC UA
+- Biztonsági bővítések
+- Valós idejű korlátozások
+- Interoperabilitás
 
-### 3. Gepi Tanulas Biztonsagi Alkalmazasokhoz
+### 3. Gépi Tanulás Biztonsági Alkalmazásokhoz
 
-#### Adversarial Gepi Tanulas
-- Robusztuss�g adversarial peldakkal szemben
-- Modell mergezesi tamadasok
-- Certifikalt vedelem
+#### Adversarial Gépi Tanulás
+- Robusztusság adversarial példákkal szemben
+- Modell mérgezési támadások
+- Certifikált védelem
 
-#### Anomaliadetektalas Mely Tanulassal
-- Autoencode-ok outlier detektalashoz
-- Rekurrens halozatok szekvencia-anomaliakhoz
+#### Anomáliadetektálás Mély Tanulással
+- Autoencode-ok outlier detektáláshoz
+- Rekurrens hálózatok szekvencia-anomáliákhoz
 - One-class SVM-ek
 
-#### Magyarazhato AI Biztonsaghoz
-- Modell interpretalhatos ag
-- Feature attribucio (SHAP, LIME)
+#### Magyarázható AI Biztonsághoz
+- Modell interpretálhatóság
+- Feature attribúció (SHAP, LIME)
 - Human-in-the-loop rendszerek
 
-### 4. Nagy Nyelvi Modellek es Alkalmazott NLP
+### 4. Nagy Nyelvi Modellek és Alkalmazott NLP
 
-#### Finomhangolas Domain-specifikus Feladatokhoz
-- Parameter-hatekony modszerek (LoRA, prefix tuning)
-- Domain adaptacio
-- Ertekelesi metrikak
+#### Finomhangolás Domain-specifikus Feladatokhoz
+- Paraméter-hatékony módszerek (LoRA, prefix tuning)
+- Domain adaptáció
+- Értékelési metrikák
 
-#### Prompt Engineering es Optimalizalas
-- Few-shot tanulas
+#### Prompt Engineering és Optimalizálás
+- Few-shot tanulás
 - Chain-of-thought prompting
-- Automatizalt prompt kereses
+- Automatizált prompt keresés
 
-#### LLM-alapu Biztonsagi Eszkozok
-- Automatizalt threat intelligence
-- Log elemzes
-- Malware kod generalas detektalasa
+#### LLM-alapú Biztonsági Eszközök
+- Automatizált threat intelligence
+- Log elemzés
+- Malware kód generálás detektálása
 
-## Modszertani Alapelvek
+## Módszertani Alapelvek
 
-1. Elmeleti Szigor - formalis modellezes, bizonyithato tulajdonsagok
-2. Empirikus Validacio - reprodukalhato kiserletek, statisztikai teszteles
-3. Operativ Megvalosithatosag - valos korlatozasok, fokozatos telepites
+1. Elméleti Szigor - formális modellezés, bizonyítható tulajdonságok
+2. Empirikus Validáció - reprodukálható kísérletek, statisztikai tesztelés
+3. Operatív Megvalósíthatóság - valós korlátozások, fokozatos telepítés
 
-## Jelenlegi Fokusz
+## Jelenlegi Fókusz
 
-### 1. Automatizalt Biztonsagi Szabalyzat Verifikacio
-- Cel: Bizonyitani, hogy egy GPO konfiguracio megfelel a STIG kovetelmenyeknek
-- Megkozelites: GPO modellezes veges allapotu gepkent, model checking (SPIN, TLA+)
+### 1. Automatizált Biztonsági Szabályzat Verifikáció
+- Cél: Bizonyítani, hogy egy GPO konfiguráció megfelel a STIG követelményeknek
+- Megközelítés: GPO modellezés véges állapotú gépként, model checking (SPIN, TLA+)
 
-### 2. Elosztott Honeypot Halozatok
-- Cel: Koordinalt honeypot-ok telepitese vallalati kornyezetekben
-- Megkozelites: Kozpontositott log aggregacio, korrelaci os elemzes
+### 2. Elosztott Honeypot Hálózatok
+- Cél: Koordinált honeypot-ok telepítése vállalati környezetekben
+- Megközelítés: Központosított log aggregáció, korrelációs elemzés
 
-### 3. LLM-tamogatott Threat Hunting
-- Cel: LLM-ek hasznalata event log-ok termeszetes nyelv� lekerdez esehez
-- Megkozelites: Finomhangolas annotalt biztonsagi adathalmazokon
+### 3. LLM-támogatott Threat Hunting
+- Cél: LLM-ek használata event log-ok természetes nyelvű lekérdezéséhez
+- Megközelítés: Finomhangolás annotált biztonsági adathalmazokon
 
-## Publikaciok es Nyilt Forraskod
+## Publikációk és Nyílt Forráskód
 
-Kivalasztott munkak es kiserletek elerhetoek a GitHub-on.
+Kiválasztott munkák és kísérletek elérhetőek a GitHub-on.
 
-Egyuttmukodeshez vagy beszelgetesekhez lepj kapcsolatba a neduabi@pm.me cimen.
+Együttműködéshez vagy beszélgetésekhez lépj kapcsolatba a neduabi@pm.me címen.

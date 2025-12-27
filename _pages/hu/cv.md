@@ -1,5 +1,5 @@
 ---
-title: "Oneletrajz"
+title: "Önéletrajz"
 permalink: /hu/cv/
 layout: single
 lang: hu
@@ -9,91 +9,91 @@ lang: hu
   <strong>HU Magyar</strong> | <a href="/en/cv/">EN English</a>
 </div>
 
-## Nemeth David
+## Németh Dávid
 
-Biztonsagi Mernok | Rendszerarchitekt | Alkalmazott Gepi Tanulas Kutato
+Biztonsági Mérnök | Rendszerarchitekt | Alkalmazott Gépi Tanulás Kutató
 
 Email: neduabi@pm.me  
 GitHub: github.com/ho92ms
 
-## Vegzettseg
+## Végzettség
 
-- B.Sc. Gepi Tanulas (folyamatban)
-- B.Sc. Szoftverfejlesztes (elvegezve)
+- B.Sc. Gépi Tanulás (folyamatban)
+- B.Sc. Szoftverfejlesztés (elvégezve)
 
 ## Szakmai Tapasztalat
 
-### Biztonsagi Mernok es Rendszerarchitekt
-VargaFlex IT Infrastruktura
+### Biztonsági Mérnök és Rendszerarchitekt
+VargaFlex IT Infrastruktúra
 
-- Fenyegetesdetektalas es Valaszadas
-- Windows Hardening es Megfelelos-ellenorzes
-- Halozati Biztonsagi Architektura
-- Vallalati Telepites es Automatizalas
+- Fenyegetésdetektálás és Válaszadás
+- Windows Hardening és Megfelelőség-ellenőrzés
+- Hálózati Biztonsági Architektúra
+- Vállalati Telepítés és Automatizálás
 
-Kulcs Eredmeny: 100+ vallalati vegpont tamadasi feluletenek 40%-os csokkentese.
+Kulcs Eredmény: 100+ vállalati végpont támadási felületének 40%-os csökkentése.
 
-### Szoftverfejleszto es Rendszerfejleszto
+### Szoftverfejlesztő és Rendszerfejlesztő
 
-- WebSocket-alapu Tunnel Architektura (C# / .NET 8.0)
-- PowerShell Automatizalasi Keretrendszer
-- Halozati Protokoll Implementacio
+- WebSocket-alapú Tunnel Architektúra (C# / .NET 8.0)
+- PowerShell Automatizálási Keretrendszer
+- Hálózati Protokoll Implementáció
 
-Kulcs Eredmeny: Biztons�gos tavoli monitoring 30%-os kesleletes csokkentes sel.
+Kulcs Eredmény: Biztonságos távoli monitoring 30%-os késleltetés csökkentéssel.
 
-### Gepi Tanulas Mernok es Kutato
+### Gépi Tanulás Mérnök és Kutató
 
-- Mely Tanulasi Keretrendszerek
+- Mély Tanulási Keretrendszerek
 - Nagy Nyelvi Modellek
-- Adatelemzes es Statisztikai Modellezes
+- Adatelemzés és Statisztikai Modellezés
 
-## Technikai Keszs egek
+## Technikai Készségek
 
-### Programozasi Nyelvek
-- Elsodleges: C#, PowerShell, Python
-- Masodlagos: C++, Java, JavaScript/TypeScript, Bash
+### Programozási Nyelvek
+- Elsődleges: C#, PowerShell, Python
+- Másodlagos: C++, Java, JavaScript/TypeScript, Bash
 
-### Biztonsag es Infrastruktura
+### Biztonság és Infrastruktúra
 - Hardening: Windows Security Baseline-ok, STIG, CIS Benchmark-ok
-- SIEM/EDR: Wazuh, Windows Event Log elemzes
-- Halozati Biztonsag: VPN, DNS-over-HTTPS, tuzfal automatizalas
+- SIEM/EDR: Wazuh, Windows Event Log elemzés
+- Hálózati Biztonság: VPN, DNS-over-HTTPS, tűzfal automatizálás
 
-### Rendszerek es Halozatok
+### Rendszerek és Hálózatok
 - Windows Server: Active Directory, Group Policy, WDS, MDT
-- Felho: Microsoft Azure
+- Felhő: Microsoft Azure
 - Protokollok: OPC UA, WebSocket, TCP tunneling, PXE boot
 
-### Szoftverfejlesztes
+### Szoftverfejlesztés
 - Backend: ASP.NET Core, WebSocket szerverek, RESTful API-k
-- Adatbazisok: PostgreSQL, MySQL, MongoDB
+- Adatbázisok: PostgreSQL, MySQL, MongoDB
 - DevOps: Git, Docker, Kubernetes, CI/CD
 
-### Gepi Tanulas
+### Gépi Tanulás
 - Keretrendszerek: PyTorch, TensorFlow/Keras, scikit-learn
 - LLM-ek: OpenAI API, Hugging Face Transformers
-- Eszkozok: Jupyter, Pandas, NumPy, Matplotlib
+- Eszközök: Jupyter, Pandas, NumPy, Matplotlib
 
 ## Kulcs Projektek
 
-### 1. Reverse Tunnel Architektura (C# / .NET 8.0)
-Biztons�gos ipari protokoll hozzaferes WebSocketen keresztul
+### 1. Reverse Tunnel Architektúra (C# / .NET 8.0)
+Biztonságos ipari protokoll hozzáférés WebSocketen keresztül
 
-### 2. Vallalati Biztonsagi Hardening Keretrendszer
-Automatizalt Windows megfelelos-ellenorzes es fenyegetesdetektalas
+### 2. Vállalati Biztonsági Hardening Keretrendszer
+Automatizált Windows megfelelőség-ellenőrzés és fenyegetésdetektálás
 
-### 3. PXE Boot Infrastruktura
-Automatizalt OS telepites vallalati kornyezetekhez
+### 3. PXE Boot Infrastruktúra
+Automatizált OS telepítés vállalati környezetekhez
 
-## Kutatasi Erdeklodes
+## Kutatási Érdeklődés
 
-- Rendszerbiztons ag es Hardening
+- Rendszerbiztonság és Hardening
 - Elosztott Rendszerek
-- Gepi Tanulas Biztonsaga
-- Neuralis Architektura Tervezes
+- Gépi Tanulás Biztonsága
+- Neurális Architektúra Tervezés
 
-## Publikaciok es Nyilt Forraskod
+## Publikációk és Nyílt Forráskód
 
-Kivalasztott munkak elerhetoek a GitHub-on.
+Kiválasztott munkák elérhetőek a GitHub-on.
 
 ## Nyelvek
 
@@ -105,4 +105,4 @@ Kivalasztott munkak elerhetoek a GitHub-on.
 Email: neduabi@pm.me  
 GitHub: github.com/ho92ms
 
-Utolso frissites: 2025. december
+Utolsó frissítés: 2025. december
