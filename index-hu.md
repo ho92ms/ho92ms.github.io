@@ -2,7 +2,7 @@
 layout: single
 title: "Németh Dávid"
 permalink: /hu/
-author_profile: false
+author_profile: true
 lang: hu
 ---
 
@@ -10,7 +10,8 @@ lang: hu
   <strong>HU</strong> | <a href="/">EN</a>
 </div>
 
-Kutatómérnöki szemléletű szoftvermérnök vagyok; fókuszom a **vállalati rendszerek** és az **alkalmazott gépi tanulás** metszete.
+Kutató szemléletű programozó-matematikus vagyok; fókuszom a **vállalati rendszerek** és az **alkalmazott gépi tanulás** metszete.
+Üzemeltetés és fejlesztés területén egyaránt dolgozom, a spontán optimalizálható lehetőségeket keresve.
 
 A célom olyan megoldások építése, amelyek:
 - **megbízhatóak** (üzemeltethetők, biztonságosak, megfigyelhetők),

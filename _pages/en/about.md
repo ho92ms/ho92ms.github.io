@@ -3,6 +3,7 @@ title: "About"
 permalink: /en/about/
 layout: single
 lang: en
+author_profile: true
 ---
 
 <div class="language-switcher" style="text-align:right; margin-bottom: 1em;">

@@ -3,6 +3,7 @@ title: "Bemutatkozás"
 permalink: /hu/about/
 layout: single
 lang: hu
+author_profile: true
 ---
 
 <div class="language-switcher" style="text-align:right; margin-bottom: 1em;">
