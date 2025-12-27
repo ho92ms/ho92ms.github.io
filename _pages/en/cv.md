@@ -1,8 +1,13 @@
 ---
 title: "Curriculum Vitae"
-permalink: /cv/
+permalink: /en/cv/
 layout: single
+lang: en
 ---
+
+<div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
+  <a href="/hu/cv/">🇭🇺 Magyar</a> | <strong>🇬🇧 English</strong>
+</div>
 
 ## Nemeth David
 

@@ -1,8 +1,13 @@
 ---
 title: "Professional Experience"
-permalink: /experience/
+permalink: /en/experience/
 layout: single
+lang: en
 ---
+
+<div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
+  <a href="/hu/experience/">🇭🇺 Magyar</a> | <strong>🇬🇧 English</strong>
+</div>
 
 ## Overview
 

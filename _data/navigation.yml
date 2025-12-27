@@ -1,11 +1,27 @@
 main:
   - title: "About"
-    url: /about/
+    url: /en/about/
   - title: "Research"
-    url: /research/
+    url: /en/research/
   - title: "Experience"
-    url: /experience/
+    url: /en/experience/
   - title: "CV"
-    url: /cv/
+    url: /en/cv/
   - title: "Contact"
-    url: /contact/
+    url: /en/contact/
+  - title: "????"
+    url: /hu/about/
+
+hu:
+  - title: "Rólam"
+    url: /hu/about/
+  - title: "Kutatás"
+    url: /hu/research/
+  - title: "Tapasztalat"
+    url: /hu/experience/
+  - title: "Önéletrajz"
+    url: /hu/cv/
+  - title: "Kapcsolat"
+    url: /hu/contact/
+  - title: "????"
+    url: /en/about/

@@ -1,8 +1,13 @@
 ---
 title: "Contact"
-permalink: /contact/
+permalink: /en/contact/
 layout: single
+lang: en
 ---
+
+<div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
+  <a href="/hu/contact/">???? Magyar</a> | <strong>???? English</strong>
+</div>
 
 ## Get in Touch
 

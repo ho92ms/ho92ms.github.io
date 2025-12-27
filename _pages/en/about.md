@@ -1,8 +1,13 @@
 ---
 title: "About"
-permalink: /about/
+permalink: /en/about/
 layout: single
+lang: en
 ---
+
+<div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
+  <a href="/hu/about/">🇭🇺 Magyar</a> | <strong>🇬🇧 English</strong>
+</div>
 
 ## Professional Profile
 

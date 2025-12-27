@@ -1,8 +1,13 @@
 ---
 title: "Research"
-permalink: /research/
+permalink: /en/research/
 layout: single
+lang: en
 ---
+
+<div class="language-switcher" style="text-align: right; margin-bottom: 1em;">
+  <a href="/hu/research/">🇭🇺 Magyar</a> | <strong>🇬🇧 English</strong>
+</div>
 
 ## Research Interests
 
