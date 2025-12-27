@@ -12,7 +12,7 @@ I am open to collaboration on projects involving **applied machine learning**, *
 
 ## Professional Inquiries
 
-?? **Email:** [neduabi@pm.me](mailto:neduabi@pm.me)
+**Email:** [neduabi@pm.me](mailto:neduabi@pm.me)
 
 Please include a clear subject line and brief description of your inquiry. I typically respond within 2-3 business days.
 
@@ -20,7 +20,7 @@ Please include a clear subject line and brief description of your inquiry. I typ
 
 ## Open Source & Collaboration
 
-?? **GitHub:** [github.com/ho92ms](https://github.com/ho92ms)
+**GitHub:** [github.com/ho92ms](https://github.com/ho92ms)
 
 Feel free to explore my repositories, open issues, or submit pull requests. I welcome constructive feedback and collaboration on open-source projects.
 
