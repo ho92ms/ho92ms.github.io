@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+ho92ms:
+  name: "Németh Dávid"
+  uri: "https://ho92ms.github.io"
+  email: "neduabi@pm.me"
+  bio: "Software Engineer · Applied Machine Learning · Systems"
+  avatar: "/images/bio-photo.jpg"
+  location: "Hungary"
+  github: "ho92ms"

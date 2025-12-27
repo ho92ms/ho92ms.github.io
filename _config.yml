@@ -5,7 +5,9 @@ url: "https://ho92ms.github.io"
 baseurl: ""
 repository: "ho92ms/ho92ms.github.io"
 
-author:
+author: "ho92ms"
+
+author_profile:
   name: "Nemeth David"
   bio: "Software Engineer | Machine Learning Researcher"
   location: "Hungary"

@@ -2,7 +2,7 @@
 layout: single
 title: "Németh Dávid"
 permalink: /hu/
-author_profile: true
+author_profile: false
 lang: hu
 ---
 
