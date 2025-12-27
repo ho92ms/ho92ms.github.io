@@ -22,3 +22,32 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Private work samples and personal projects (NOT for public repository)
+my-works/
+private-projects/
+portfolio-samples/
+
+# Sensitive data and credentials
+*.env
+*.env.local
+.env.*
+secrets/
+credentials/
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Personal documents
+personal/
+cv-private/
+references/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*~
+.#*
+
