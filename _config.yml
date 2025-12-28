@@ -102,3 +102,5 @@ locale: "en-US"
 analytics:
   provider: false
 
+seo:
+  title: false
