@@ -9,7 +9,7 @@ This repository hosts the source code of my personal academic website, built usi
 ## Overview
 
 The site serves as a professional profile with emphasis on:
-- **Software engineering** — system design, DevOps, backend development
+- **Software engineering** — DevOps, backend development
 - **Applied machine learning** — neural networks, LLMs, interpretable AI
 - **Academic rigor** — mathematically grounded, empirically verifiable solutions under real-world system constraints
 
