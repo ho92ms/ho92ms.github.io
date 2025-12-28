@@ -10,7 +10,7 @@ main:
   - title: "Contact"
     url: /en/contact/
   - title: "HU"
-    url: /hu/about/
+    url: /hu/
 
 hu:
   - title: "Rolam"
@@ -24,4 +24,4 @@ hu:
   - title: "Kapcsolat"
     url: /hu/contact/
   - title: "EN"
-    url: /en/about/
+    url: /

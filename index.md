@@ -2,7 +2,7 @@
 layout: single
 title: "Németh Dávid"
 permalink: /
-author_profile: false
+author_profile: true
 lang: en
 ---
 

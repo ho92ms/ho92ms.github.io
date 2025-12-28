@@ -11,7 +11,7 @@ This repository hosts the source code of my personal academic website, built usi
 The site serves as a professional profile with emphasis on:
 - **Software engineering** — system design, DevOps, backend development
 - **Applied machine learning** — neural networks, LLMs, interpretable AI
-- **Academic rigor** — mathematically grounded, empirically verifiable solutions
+- **Academic rigor** — mathematically grounded, empirically verifiable solutions under real-world system constraints
 
 ---
 
@@ -36,59 +36,6 @@ I prefer solutions that balance theoretical elegance with practical constraints,
 1. **Structure** over ad-hoc optimization
 2. **Reproducibility** and transparency
 3. **Interpretability** in complex systems
-
----
-
-## Technology Stack
-
-- **Jekyll** — static site generator (GitHub Pages compatible)
-- **Markdown** — content authoring
-- **Academic Pages** — base template with customizations
-- **Custom CSS** — BME/ELTE IK academic styling
-- **MathJax** — mathematical notation support
-
----
-
-## Local Development
-
-To run the site locally:
-
-```bash
-# Install dependencies
-bundle install
-
-# Serve the site
-bundle exec jekyll serve
-
-# View at http://localhost:4000
-```
-
----
-
-## Customization
-
-### Site Configuration
-Edit `_config.yml` for site-wide settings (title, author info, plugins).
-
-### Navigation
-Modify `_data/navigation.yml` to change menu items.
-
-### Content
-- **Pages:** Edit files in `_pages/`
-- **Home:** Edit `index.md`
-- **Styling:** Customize `assets/css/main.scss`
-
----
-
-## Deployment
-
-The site is automatically deployed to GitHub Pages when changes are pushed to the `main` branch.
-
-```bash
-git add .
-git commit -m "Update content"
-git push origin main
-```
 
 ---
 
