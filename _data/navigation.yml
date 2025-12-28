@@ -13,13 +13,13 @@ main:
     url: /hu/
 
 hu:
-  - title: "Rolam"
+  - title: "Rólam"
     url: /hu/about/
-  - title: "Kutatas"
+  - title: "Kutatás"
     url: /hu/research/
   - title: "Tapasztalat"
     url: /hu/experience/
-  - title: "Oneletrajz"
+  - title: "Cv"
     url: /hu/cv/
   - title: "Kapcsolat"
     url: /hu/contact/

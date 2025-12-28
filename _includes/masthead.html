@@ -1,11 +1,5 @@
 {% include base_path %}
 
-{%- comment -%}
-  Language-aware navigation:
-  - HU pages (page.lang == "hu") use site.data.navigation.hu and home = /hu/
-  - EN pages (default) use site.data.navigation.main and home = /
-{%- endcomment -%}
-
 {%- assign nav_key = "main" -%}
 {%- assign home_url = "/" -%}
 
@@ -28,14 +22,27 @@
           </li>
 
           {% for link in nav_items %}
-            {% if link.url %}
-              {% if link.url contains 'http' %}
-                <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
-              {% else %}
-                <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
-              {% endif %}
+            {%- assign link_title = link.title | strip -%}
+
+            {%- comment -%}
+              Hard override for language switch items:
+              - "HU" should always go to /hu/
+              - "EN" should always go to /
+            {%- endcomment -%}
+            {% if link_title == "HU" %}
+              <li class="masthead__menu-item"><a href="{{ '/hu/' | relative_url }}">HU</a></li>
+            {% elsif link_title == "EN" %}
+              <li class="masthead__menu-item"><a href="{{ '/' | relative_url }}">EN</a></li>
             {% else %}
-              <li class="masthead__menu-item"><span>{{ link.title }}</span></li>
+              {% if link.url %}
+                {% if link.url contains 'http' %}
+                  <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+                {% else %}
+                  <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+                {% endif %}
+              {% else %}
+                <li class="masthead__menu-item"><span>{{ link.title }}</span></li>
+              {% endif %}
             {% endif %}
           {% endfor %}
 
